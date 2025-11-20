@@ -1,0 +1,1001 @@
+ID,Sexo,Edad,Grado,Asistencia,Rendimiento,Promedio_Academico,Inasistencias,Actividad_Extracurricular,Conectividad_Internet,Distancia_Escuela,Trabajo_Estudiante,Situacion_Familiar,Nivel_Socioeconomico,Riesgo_Desercion
+1,Masculino,18,3°,Media,Alto,7.7,25,No,No,Medio,No,Madre/padre solo,Alto,Sí
+2,Femenino,14,1°,Media,Alto,6.1,7,No,Sí,Cercano,Sí,Con otros familiares,Medio,Sí
+3,Femenino,13,1°,Baja,Alto,4.9,3,Sí,No,Medio,No,Con otros familiares,Alto,No
+4,Femenino,15,2°,Media,Bajo,9.0,17,No,Sí,Medio,No,Con otros familiares,Bajo,No
+5,Femenino,19,5°,Baja,Bajo,5.6,21,Sí,No,Lejos,No,Con ambos padres,Bajo,No
+6,Femenino,16,5°,Media,Medio,9.9,16,Sí,Sí,Lejos,No,Con ambos padres,Medio,Sí
+7,Femenino,16,3°,Media,Alto,5.2,7,Sí,No,Medio,Sí,Con ambos padres,Alto,Sí
+8,Masculino,13,5°,Alta,Medio,7.9,5,No,No,Medio,No,Con ambos padres,Bajo,Sí
+9,Femenino,14,2°,Media,Bajo,10.0,4,Sí,No,Medio,No,Madre/padre solo,Medio,No
+10,Masculino,17,3°,Media,Medio,4.5,1,No,No,Medio,Sí,Con otros familiares,Medio,Sí
+11,Masculino,15,5°,Alta,Alto,7.2,0,No,No,Medio,Sí,Sin referente adulto,Alto,Sí
+12,Femenino,16,3°,Media,Alto,9.3,30,No,No,Lejos,No,Madre/padre solo,Bajo,No
+13,Masculino,18,4°,Media,Medio,4.6,16,Sí,Sí,Cercano,No,Con ambos padres,Medio,No
+14,Masculino,17,1°,Media,Alto,6.1,24,Sí,Sí,Medio,No,Con ambos padres,Alto,No
+15,Masculino,18,5°,Media,Medio,6.1,18,Sí,No,Medio,Sí,Madre/padre solo,Medio,Sí
+16,Femenino,16,5°,Alta,Bajo,9.6,25,Sí,Sí,Cercano,No,Sin referente adulto,Bajo,Sí
+17,Masculino,13,2°,Baja,Medio,9.5,15,Sí,No,Lejos,Sí,Madre/padre solo,Bajo,Sí
+18,Femenino,17,1°,Baja,Alto,9.1,28,No,Sí,Medio,No,Con ambos padres,Bajo,Sí
+19,Masculino,19,2°,Media,Bajo,4.5,13,No,Sí,Cercano,No,Madre/padre solo,Medio,Sí
+20,Femenino,14,2°,Media,Medio,4.6,30,Sí,No,Lejos,No,Madre/padre solo,Medio,No
+21,Femenino,15,5°,Media,Medio,9.0,5,Sí,No,Medio,Sí,Madre/padre solo,Medio,Sí
+22,Femenino,16,4°,Media,Alto,9.0,19,No,No,Lejos,Sí,Con otros familiares,Medio,No
+23,Masculino,16,5°,Baja,Alto,9.7,28,No,Sí,Lejos,No,Sin referente adulto,Alto,No
+24,Femenino,17,1°,Media,Bajo,8.4,14,Sí,No,Lejos,Sí,Con otros familiares,Medio,Sí
+25,Femenino,17,5°,Alta,Bajo,4.4,21,No,Sí,Lejos,No,Con otros familiares,Alto,No
+26,Masculino,16,2°,Media,Alto,6.0,9,No,Sí,Lejos,No,Madre/padre solo,Medio,No
+27,Masculino,16,4°,Baja,Medio,6.5,20,No,No,Medio,No,Madre/padre solo,Bajo,Sí
+28,Masculino,15,2°,Baja,Alto,6.0,7,Sí,No,Medio,No,Madre/padre solo,Alto,No
+29,Femenino,15,3°,Baja,Bajo,4.3,29,Sí,Sí,Medio,No,Con ambos padres,Medio,Sí
+30,Femenino,16,5°,Alta,Bajo,5.3,27,No,Sí,Cercano,No,Sin referente adulto,Medio,No
+31,Masculino,19,4°,Media,Medio,6.3,5,No,Sí,Lejos,No,Con otros familiares,Alto,No
+32,Femenino,16,2°,Baja,Alto,6.6,25,No,No,Medio,Sí,Con otros familiares,Bajo,Sí
+33,Femenino,16,1°,Media,Medio,9.6,0,No,Sí,Medio,Sí,Madre/padre solo,Bajo,Sí
+34,Masculino,16,3°,Baja,Alto,6.4,13,No,No,Medio,Sí,Madre/padre solo,Bajo,Sí
+35,Masculino,15,1°,Alta,Bajo,9.8,1,Sí,Sí,Medio,Sí,Con ambos padres,Bajo,No
+36,Masculino,13,4°,Alta,Medio,5.7,19,No,Sí,Cercano,Sí,Con ambos padres,Bajo,Sí
+37,Masculino,15,4°,Alta,Medio,5.0,4,Sí,No,Lejos,Sí,Con ambos padres,Alto,No
+38,Masculino,19,3°,Baja,Bajo,5.1,11,No,No,Medio,Sí,Con ambos padres,Medio,No
+39,Femenino,18,4°,Alta,Alto,7.8,11,Sí,Sí,Lejos,Sí,Con ambos padres,Bajo,No
+40,Masculino,19,3°,Alta,Medio,8.7,4,Sí,Sí,Cercano,Sí,Sin referente adulto,Alto,No
+41,Femenino,19,1°,Baja,Bajo,8.9,5,Sí,No,Cercano,No,Sin referente adulto,Bajo,No
+42,Masculino,16,4°,Alta,Alto,5.4,2,No,Sí,Cercano,No,Con ambos padres,Alto,Sí
+43,Masculino,16,1°,Media,Medio,9.7,23,No,No,Cercano,No,Con ambos padres,Alto,Sí
+44,Femenino,15,4°,Media,Alto,4.9,26,Sí,Sí,Medio,No,Con ambos padres,Alto,No
+45,Femenino,14,2°,Alta,Alto,5.2,21,Sí,Sí,Cercano,No,Con ambos padres,Alto,Sí
+46,Femenino,14,2°,Alta,Alto,6.5,25,Sí,No,Lejos,Sí,Con ambos padres,Bajo,Sí
+47,Masculino,17,4°,Alta,Bajo,5.2,27,Sí,Sí,Cercano,No,Con ambos padres,Alto,Sí
+48,Masculino,13,1°,Baja,Alto,7.2,16,Sí,Sí,Medio,No,Sin referente adulto,Medio,Sí
+49,Masculino,14,4°,Alta,Medio,9.8,24,No,Sí,Lejos,No,Con otros familiares,Bajo,No
+50,Masculino,17,2°,Media,Alto,4.3,11,Sí,Sí,Medio,Sí,Sin referente adulto,Medio,Sí
+51,Masculino,17,5°,Media,Bajo,4.9,21,Sí,No,Lejos,Sí,Sin referente adulto,Alto,Sí
+52,Femenino,18,4°,Media,Alto,4.6,19,Sí,Sí,Medio,Sí,Madre/padre solo,Medio,Sí
+53,Femenino,15,5°,Baja,Bajo,6.0,5,Sí,Sí,Medio,No,Madre/padre solo,Alto,Sí
+54,Femenino,19,5°,Alta,Medio,9.5,24,No,No,Cercano,No,Madre/padre solo,Bajo,Sí
+55,Masculino,19,3°,Media,Medio,5.3,2,Sí,No,Medio,No,Con ambos padres,Alto,No
+56,Femenino,13,2°,Alta,Medio,4.9,12,Sí,Sí,Cercano,Sí,Madre/padre solo,Medio,No
+57,Femenino,18,4°,Alta,Medio,6.4,11,No,No,Cercano,Sí,Con otros familiares,Medio,Sí
+58,Femenino,16,3°,Alta,Alto,6.8,18,Sí,No,Lejos,No,Con otros familiares,Medio,Sí
+59,Masculino,14,4°,Alta,Bajo,5.1,10,No,Sí,Cercano,Sí,Con ambos padres,Medio,Sí
+60,Femenino,16,1°,Media,Bajo,4.6,13,No,No,Lejos,Sí,Con otros familiares,Alto,No
+61,Masculino,19,1°,Media,Bajo,8.3,21,No,No,Medio,Sí,Con otros familiares,Bajo,Sí
+62,Masculino,14,3°,Media,Bajo,6.7,14,Sí,Sí,Lejos,No,Sin referente adulto,Medio,Sí
+63,Femenino,14,1°,Baja,Alto,6.9,30,No,No,Lejos,No,Con ambos padres,Medio,No
+64,Masculino,19,5°,Media,Alto,8.7,20,No,No,Medio,No,Sin referente adulto,Bajo,No
+65,Femenino,17,4°,Media,Medio,7.5,7,Sí,Sí,Medio,No,Con otros familiares,Bajo,Sí
+66,Masculino,17,1°,Baja,Bajo,5.4,22,Sí,No,Medio,Sí,Madre/padre solo,Alto,Sí
+67,Masculino,17,2°,Media,Alto,4.4,4,Sí,No,Medio,Sí,Sin referente adulto,Bajo,Sí
+68,Femenino,18,4°,Baja,Medio,8.9,30,No,No,Medio,No,Con otros familiares,Alto,No
+69,Femenino,13,2°,Baja,Alto,4.4,16,Sí,No,Lejos,Sí,Madre/padre solo,Medio,Sí
+70,Femenino,16,2°,Alta,Bajo,6.9,14,No,Sí,Cercano,No,Sin referente adulto,Alto,No
+71,Femenino,16,4°,Media,Alto,5.6,10,No,Sí,Medio,Sí,Madre/padre solo,Medio,No
+72,Masculino,13,3°,Alta,Bajo,5.6,15,Sí,Sí,Cercano,Sí,Con ambos padres,Medio,Sí
+73,Femenino,17,4°,Alta,Bajo,8.8,29,No,Sí,Lejos,No,Con ambos padres,Alto,Sí
+74,Masculino,14,3°,Media,Bajo,7.6,24,No,Sí,Cercano,Sí,Madre/padre solo,Alto,No
+75,Femenino,19,4°,Media,Bajo,9.5,15,No,Sí,Cercano,Sí,Sin referente adulto,Medio,No
+76,Masculino,13,3°,Media,Bajo,7.7,19,No,Sí,Lejos,Sí,Con ambos padres,Alto,Sí
+77,Masculino,16,2°,Alta,Bajo,6.1,0,Sí,Sí,Lejos,Sí,Madre/padre solo,Alto,Sí
+78,Femenino,13,4°,Alta,Bajo,6.9,18,Sí,Sí,Cercano,No,Con ambos padres,Bajo,Sí
+79,Masculino,17,2°,Baja,Bajo,6.2,8,Sí,No,Lejos,No,Con otros familiares,Medio,No
+80,Femenino,15,2°,Baja,Alto,8.7,11,Sí,No,Lejos,Sí,Con ambos padres,Medio,Sí
+81,Masculino,19,4°,Media,Bajo,9.9,0,No,No,Lejos,Sí,Madre/padre solo,Alto,Sí
+82,Femenino,19,5°,Media,Bajo,4.7,13,Sí,No,Cercano,No,Con ambos padres,Medio,Sí
+83,Masculino,18,2°,Alta,Bajo,5.1,28,Sí,Sí,Lejos,Sí,Sin referente adulto,Medio,Sí
+84,Femenino,19,3°,Media,Alto,8.9,29,Sí,Sí,Lejos,No,Con otros familiares,Alto,No
+85,Masculino,14,2°,Baja,Bajo,4.4,1,No,No,Cercano,Sí,Madre/padre solo,Bajo,No
+86,Masculino,15,5°,Alta,Medio,7.4,2,Sí,No,Medio,No,Con otros familiares,Alto,No
+87,Femenino,14,4°,Media,Medio,6.8,18,Sí,Sí,Lejos,Sí,Con ambos padres,Medio,No
+88,Masculino,18,4°,Alta,Alto,8.4,16,Sí,Sí,Lejos,No,Con ambos padres,Bajo,No
+89,Femenino,15,5°,Baja,Medio,8.3,19,No,Sí,Lejos,No,Con ambos padres,Bajo,No
+90,Femenino,18,1°,Alta,Bajo,4.3,29,Sí,Sí,Lejos,No,Con otros familiares,Bajo,No
+91,Masculino,17,2°,Baja,Medio,6.6,13,No,No,Medio,Sí,Con ambos padres,Alto,Sí
+92,Femenino,16,2°,Baja,Medio,9.4,19,No,No,Cercano,No,Sin referente adulto,Alto,No
+93,Masculino,13,3°,Media,Bajo,8.6,6,Sí,No,Cercano,No,Madre/padre solo,Alto,No
+94,Femenino,13,4°,Media,Alto,7.0,21,Sí,Sí,Medio,Sí,Con otros familiares,Medio,Sí
+95,Masculino,17,1°,Media,Alto,9.5,20,Sí,Sí,Cercano,Sí,Madre/padre solo,Alto,Sí
+96,Femenino,13,1°,Baja,Alto,4.5,16,Sí,No,Cercano,No,Madre/padre solo,Medio,Sí
+97,Femenino,15,2°,Alta,Medio,6.2,29,Sí,No,Cercano,Sí,Con otros familiares,Alto,No
+98,Masculino,15,1°,Alta,Bajo,8.5,2,Sí,Sí,Medio,No,Madre/padre solo,Medio,Sí
+99,Masculino,15,1°,Alta,Bajo,8.2,10,Sí,No,Lejos,No,Madre/padre solo,Bajo,Sí
+100,Masculino,19,5°,Alta,Bajo,6.5,8,Sí,Sí,Medio,Sí,Con ambos padres,Alto,No
+101,Femenino,19,1°,Media,Alto,6.2,0,Sí,Sí,Cercano,Sí,Con otros familiares,Bajo,No
+102,Femenino,18,1°,Media,Alto,4.1,25,Sí,Sí,Medio,Sí,Madre/padre solo,Alto,No
+103,Femenino,17,3°,Alta,Alto,7.9,13,Sí,No,Medio,No,Sin referente adulto,Bajo,No
+104,Femenino,19,2°,Baja,Alto,5.4,11,Sí,Sí,Lejos,No,Madre/padre solo,Alto,Sí
+105,Masculino,18,1°,Media,Bajo,7.6,3,No,No,Medio,No,Con ambos padres,Medio,No
+106,Femenino,16,3°,Baja,Alto,4.3,26,No,Sí,Lejos,No,Sin referente adulto,Alto,No
+107,Masculino,16,3°,Alta,Alto,9.7,28,No,No,Lejos,Sí,Madre/padre solo,Alto,Sí
+108,Femenino,13,2°,Baja,Bajo,9.8,1,No,Sí,Cercano,Sí,Sin referente adulto,Bajo,No
+109,Femenino,15,5°,Baja,Alto,5.9,22,No,Sí,Cercano,Sí,Sin referente adulto,Medio,Sí
+110,Masculino,15,4°,Baja,Bajo,5.2,2,No,No,Medio,Sí,Con ambos padres,Alto,Sí
+111,Femenino,16,3°,Alta,Medio,8.7,5,Sí,Sí,Cercano,Sí,Sin referente adulto,Bajo,Sí
+112,Femenino,15,5°,Alta,Alto,9.4,17,No,Sí,Lejos,No,Con ambos padres,Medio,No
+113,Masculino,15,4°,Alta,Bajo,4.1,29,No,No,Lejos,No,Con ambos padres,Alto,Sí
+114,Masculino,15,5°,Alta,Bajo,9.7,25,No,No,Lejos,No,Con ambos padres,Alto,Sí
+115,Femenino,17,1°,Baja,Medio,9.5,19,No,Sí,Lejos,No,Con otros familiares,Bajo,Sí
+116,Masculino,13,4°,Alta,Medio,7.4,0,No,Sí,Lejos,Sí,Madre/padre solo,Alto,No
+117,Masculino,16,5°,Alta,Bajo,5.9,8,Sí,No,Cercano,No,Con otros familiares,Medio,Sí
+118,Femenino,13,1°,Alta,Alto,5.0,21,Sí,Sí,Medio,No,Con ambos padres,Alto,No
+119,Femenino,15,4°,Alta,Alto,8.1,1,No,No,Lejos,No,Sin referente adulto,Alto,Sí
+120,Masculino,14,5°,Media,Bajo,8.2,29,Sí,No,Medio,No,Con otros familiares,Medio,Sí
+121,Masculino,17,3°,Media,Alto,6.7,7,Sí,No,Lejos,Sí,Madre/padre solo,Medio,Sí
+122,Femenino,18,4°,Media,Alto,8.0,27,No,Sí,Medio,Sí,Sin referente adulto,Medio,Sí
+123,Masculino,14,2°,Media,Alto,8.3,7,Sí,Sí,Medio,No,Madre/padre solo,Bajo,No
+124,Masculino,14,4°,Media,Alto,8.2,17,Sí,Sí,Medio,No,Madre/padre solo,Bajo,Sí
+125,Femenino,17,4°,Alta,Alto,8.0,9,Sí,No,Medio,No,Sin referente adulto,Alto,Sí
+126,Femenino,18,1°,Alta,Bajo,5.2,19,Sí,No,Cercano,No,Con ambos padres,Alto,No
+127,Masculino,16,3°,Baja,Alto,9.0,16,Sí,Sí,Lejos,No,Madre/padre solo,Alto,Sí
+128,Masculino,14,4°,Alta,Bajo,5.0,24,Sí,Sí,Cercano,Sí,Sin referente adulto,Bajo,No
+129,Femenino,13,1°,Baja,Medio,5.0,30,Sí,Sí,Medio,No,Con otros familiares,Medio,Sí
+130,Masculino,14,4°,Alta,Alto,5.2,2,Sí,Sí,Medio,No,Madre/padre solo,Bajo,No
+131,Femenino,19,1°,Media,Bajo,8.8,12,No,No,Lejos,No,Madre/padre solo,Medio,Sí
+132,Masculino,14,3°,Alta,Alto,4.5,9,No,Sí,Cercano,No,Con otros familiares,Medio,Sí
+133,Masculino,14,1°,Baja,Alto,9.0,2,Sí,No,Lejos,Sí,Madre/padre solo,Bajo,Sí
+134,Femenino,13,5°,Baja,Alto,6.6,3,No,No,Cercano,Sí,Con otros familiares,Medio,No
+135,Masculino,18,1°,Media,Bajo,4.0,29,No,No,Lejos,Sí,Madre/padre solo,Medio,Sí
+136,Femenino,13,4°,Baja,Alto,5.4,9,Sí,Sí,Lejos,No,Con ambos padres,Alto,No
+137,Masculino,16,2°,Baja,Alto,5.2,25,Sí,Sí,Medio,Sí,Madre/padre solo,Alto,No
+138,Masculino,19,3°,Baja,Bajo,8.2,12,Sí,No,Lejos,No,Con ambos padres,Bajo,Sí
+139,Masculino,18,1°,Alta,Alto,8.4,11,Sí,Sí,Medio,Sí,Sin referente adulto,Alto,Sí
+140,Femenino,18,1°,Media,Alto,5.1,28,Sí,Sí,Lejos,Sí,Madre/padre solo,Medio,No
+141,Masculino,18,4°,Baja,Bajo,7.0,26,Sí,Sí,Medio,No,Con otros familiares,Bajo,No
+142,Masculino,15,1°,Baja,Alto,4.4,6,No,No,Lejos,Sí,Sin referente adulto,Bajo,No
+143,Femenino,16,4°,Alta,Medio,4.6,5,Sí,Sí,Lejos,No,Sin referente adulto,Alto,No
+144,Femenino,16,4°,Alta,Medio,8.3,10,No,No,Lejos,Sí,Madre/padre solo,Alto,Sí
+145,Masculino,14,4°,Alta,Bajo,6.3,10,Sí,No,Cercano,No,Con otros familiares,Medio,Sí
+146,Masculino,17,2°,Media,Bajo,8.2,20,No,No,Lejos,No,Sin referente adulto,Alto,No
+147,Masculino,14,4°,Baja,Alto,7.2,27,No,Sí,Medio,No,Madre/padre solo,Alto,Sí
+148,Femenino,13,4°,Baja,Alto,6.5,18,No,No,Lejos,Sí,Con otros familiares,Alto,Sí
+149,Masculino,19,5°,Baja,Alto,9.7,21,No,No,Lejos,Sí,Sin referente adulto,Medio,Sí
+150,Femenino,18,4°,Baja,Alto,9.1,24,No,No,Medio,Sí,Con otros familiares,Medio,Sí
+151,Masculino,15,2°,Baja,Alto,4.0,22,Sí,No,Cercano,Sí,Madre/padre solo,Alto,Sí
+152,Masculino,18,2°,Baja,Bajo,6.9,28,Sí,No,Cercano,Sí,Con ambos padres,Bajo,Sí
+153,Femenino,17,2°,Baja,Alto,8.8,28,Sí,Sí,Medio,No,Sin referente adulto,Medio,No
+154,Femenino,14,4°,Media,Medio,8.8,29,No,No,Medio,No,Madre/padre solo,Bajo,No
+155,Femenino,14,5°,Alta,Alto,7.9,23,No,Sí,Lejos,No,Con otros familiares,Medio,No
+156,Femenino,13,1°,Media,Alto,8.3,25,No,Sí,Lejos,No,Con otros familiares,Medio,Sí
+157,Masculino,14,4°,Alta,Medio,7.8,5,Sí,No,Lejos,No,Con ambos padres,Medio,No
+158,Masculino,13,2°,Alta,Bajo,4.5,16,Sí,No,Cercano,Sí,Con otros familiares,Medio,Sí
+159,Femenino,14,4°,Media,Alto,4.4,24,No,Sí,Cercano,Sí,Con ambos padres,Medio,No
+160,Masculino,18,3°,Media,Medio,6.5,14,No,No,Lejos,Sí,Con otros familiares,Alto,Sí
+161,Masculino,17,3°,Alta,Medio,5.0,12,No,No,Cercano,Sí,Sin referente adulto,Medio,Sí
+162,Femenino,13,1°,Media,Alto,6.3,12,No,No,Lejos,Sí,Sin referente adulto,Alto,No
+163,Masculino,14,3°,Alta,Bajo,7.3,5,No,Sí,Medio,No,Sin referente adulto,Bajo,Sí
+164,Femenino,18,1°,Media,Bajo,9.0,16,Sí,No,Medio,No,Con otros familiares,Medio,No
+165,Femenino,14,3°,Baja,Bajo,7.2,19,Sí,Sí,Lejos,No,Sin referente adulto,Medio,Sí
+166,Femenino,19,2°,Alta,Medio,5.0,29,Sí,No,Medio,No,Con ambos padres,Medio,Sí
+167,Femenino,17,1°,Alta,Alto,6.7,7,Sí,No,Lejos,No,Con ambos padres,Medio,No
+168,Femenino,16,1°,Baja,Alto,4.1,30,No,No,Lejos,Sí,Con otros familiares,Medio,Sí
+169,Femenino,15,4°,Alta,Bajo,8.9,4,No,No,Cercano,Sí,Sin referente adulto,Alto,Sí
+170,Femenino,16,1°,Baja,Alto,4.5,23,Sí,Sí,Medio,Sí,Con otros familiares,Bajo,Sí
+171,Femenino,15,1°,Media,Medio,8.7,22,Sí,No,Medio,Sí,Con ambos padres,Alto,Sí
+172,Masculino,13,4°,Media,Alto,5.1,20,No,No,Cercano,Sí,Con ambos padres,Medio,No
+173,Masculino,14,1°,Media,Medio,8.2,26,Sí,Sí,Medio,No,Madre/padre solo,Medio,Sí
+174,Femenino,18,5°,Media,Medio,4.7,18,Sí,Sí,Cercano,No,Con ambos padres,Bajo,No
+175,Masculino,19,2°,Media,Medio,6.2,29,No,No,Medio,No,Con otros familiares,Alto,No
+176,Femenino,17,3°,Baja,Alto,5.3,4,No,Sí,Lejos,Sí,Sin referente adulto,Bajo,Sí
+177,Masculino,14,4°,Baja,Alto,4.2,23,Sí,Sí,Cercano,No,Con otros familiares,Medio,No
+178,Femenino,17,4°,Baja,Medio,8.3,7,No,Sí,Medio,Sí,Con ambos padres,Alto,No
+179,Masculino,14,5°,Media,Alto,6.7,4,No,No,Medio,No,Con otros familiares,Bajo,Sí
+180,Masculino,17,4°,Media,Bajo,8.2,15,No,Sí,Medio,Sí,Con ambos padres,Alto,No
+181,Femenino,17,2°,Alta,Medio,7.1,13,No,No,Lejos,No,Sin referente adulto,Bajo,No
+182,Femenino,15,2°,Alta,Medio,5.3,29,No,Sí,Lejos,Sí,Con ambos padres,Medio,No
+183,Femenino,17,2°,Baja,Medio,7.2,29,Sí,No,Medio,Sí,Madre/padre solo,Bajo,Sí
+184,Masculino,19,5°,Baja,Bajo,7.3,6,Sí,No,Lejos,No,Con otros familiares,Medio,No
+185,Femenino,16,4°,Baja,Alto,4.4,0,No,Sí,Lejos,Sí,Sin referente adulto,Bajo,No
+186,Femenino,17,4°,Baja,Alto,7.7,12,Sí,Sí,Lejos,Sí,Con otros familiares,Bajo,No
+187,Masculino,15,5°,Baja,Alto,7.8,12,No,Sí,Lejos,Sí,Sin referente adulto,Alto,Sí
+188,Masculino,14,1°,Media,Medio,9.2,28,Sí,Sí,Medio,Sí,Sin referente adulto,Medio,No
+189,Masculino,16,1°,Baja,Medio,7.7,30,No,Sí,Medio,Sí,Con ambos padres,Medio,No
+190,Femenino,14,1°,Alta,Alto,9.2,8,Sí,No,Lejos,Sí,Sin referente adulto,Medio,No
+191,Masculino,16,2°,Baja,Alto,9.5,2,Sí,Sí,Medio,Sí,Con ambos padres,Alto,Sí
+192,Masculino,15,5°,Baja,Bajo,5.5,7,No,No,Medio,Sí,Sin referente adulto,Medio,Sí
+193,Masculino,18,1°,Alta,Medio,7.3,18,Sí,No,Medio,No,Sin referente adulto,Bajo,Sí
+194,Femenino,13,3°,Alta,Alto,4.4,20,No,Sí,Cercano,Sí,Con ambos padres,Alto,Sí
+195,Femenino,19,5°,Alta,Bajo,4.5,3,Sí,Sí,Medio,No,Madre/padre solo,Bajo,Sí
+196,Femenino,14,3°,Alta,Medio,8.5,11,Sí,No,Cercano,Sí,Con otros familiares,Alto,Sí
+197,Femenino,18,5°,Baja,Alto,9.7,30,Sí,No,Cercano,No,Con ambos padres,Medio,Sí
+198,Femenino,14,3°,Media,Bajo,7.3,28,No,No,Lejos,Sí,Con otros familiares,Alto,No
+199,Masculino,17,1°,Baja,Bajo,4.6,14,Sí,No,Cercano,No,Con ambos padres,Bajo,No
+200,Masculino,19,2°,Alta,Alto,7.4,11,Sí,Sí,Cercano,Sí,Madre/padre solo,Bajo,No
+201,Masculino,16,4°,Baja,Bajo,6.2,26,No,No,Cercano,Sí,Con otros familiares,Medio,Sí
+202,Femenino,19,3°,Media,Alto,9.9,2,Sí,No,Medio,No,Con ambos padres,Bajo,Sí
+203,Femenino,16,2°,Media,Alto,10.0,24,No,No,Lejos,No,Sin referente adulto,Medio,Sí
+204,Masculino,13,5°,Media,Medio,4.8,16,No,Sí,Lejos,No,Con ambos padres,Alto,Sí
+205,Masculino,15,4°,Media,Bajo,9.5,18,Sí,No,Cercano,No,Sin referente adulto,Medio,Sí
+206,Femenino,17,5°,Baja,Medio,5.5,16,Sí,Sí,Medio,Sí,Con otros familiares,Bajo,Sí
+207,Femenino,18,1°,Alta,Bajo,9.4,26,Sí,No,Lejos,Sí,Con ambos padres,Alto,No
+208,Femenino,18,1°,Baja,Medio,5.8,2,No,Sí,Medio,Sí,Con otros familiares,Bajo,Sí
+209,Femenino,13,2°,Alta,Bajo,7.8,24,No,Sí,Cercano,No,Con otros familiares,Bajo,No
+210,Femenino,19,2°,Baja,Medio,4.8,26,No,No,Cercano,No,Madre/padre solo,Bajo,Sí
+211,Masculino,16,3°,Baja,Alto,8.6,18,No,No,Medio,Sí,Madre/padre solo,Bajo,Sí
+212,Femenino,14,1°,Baja,Alto,5.6,13,Sí,Sí,Lejos,No,Madre/padre solo,Bajo,Sí
+213,Femenino,18,4°,Baja,Bajo,8.5,24,No,Sí,Cercano,Sí,Sin referente adulto,Bajo,No
+214,Femenino,18,2°,Baja,Alto,4.9,22,No,Sí,Medio,Sí,Con otros familiares,Alto,Sí
+215,Masculino,19,5°,Alta,Medio,5.8,14,Sí,Sí,Medio,No,Con ambos padres,Bajo,Sí
+216,Femenino,13,1°,Baja,Bajo,8.8,2,No,No,Medio,No,Sin referente adulto,Bajo,No
+217,Femenino,14,1°,Alta,Alto,4.7,20,No,Sí,Lejos,Sí,Sin referente adulto,Bajo,No
+218,Masculino,18,4°,Baja,Medio,4.1,5,No,Sí,Lejos,Sí,Madre/padre solo,Medio,Sí
+219,Masculino,15,4°,Alta,Alto,4.4,25,Sí,No,Cercano,Sí,Sin referente adulto,Medio,No
+220,Masculino,18,3°,Media,Bajo,5.4,10,Sí,Sí,Cercano,Sí,Sin referente adulto,Alto,Sí
+221,Femenino,16,1°,Alta,Medio,7.9,17,No,No,Medio,No,Sin referente adulto,Alto,Sí
+222,Masculino,16,5°,Alta,Medio,9.9,5,Sí,Sí,Cercano,Sí,Madre/padre solo,Alto,Sí
+223,Femenino,13,4°,Alta,Alto,5.8,11,No,Sí,Lejos,No,Sin referente adulto,Medio,Sí
+224,Femenino,13,5°,Baja,Medio,5.9,5,No,Sí,Cercano,No,Con ambos padres,Medio,Sí
+225,Femenino,17,2°,Baja,Medio,4.6,27,Sí,No,Cercano,No,Con otros familiares,Bajo,No
+226,Masculino,14,5°,Alta,Bajo,4.4,27,No,Sí,Cercano,No,Madre/padre solo,Medio,Sí
+227,Femenino,13,3°,Baja,Bajo,9.3,25,Sí,Sí,Cercano,No,Sin referente adulto,Medio,Sí
+228,Masculino,19,4°,Baja,Alto,4.6,28,No,No,Medio,No,Con ambos padres,Alto,No
+229,Femenino,17,1°,Alta,Medio,7.0,6,No,No,Lejos,No,Con otros familiares,Bajo,Sí
+230,Femenino,16,3°,Media,Bajo,7.2,5,Sí,Sí,Lejos,Sí,Madre/padre solo,Medio,No
+231,Masculino,15,5°,Baja,Alto,4.4,28,Sí,No,Cercano,No,Madre/padre solo,Medio,Sí
+232,Femenino,13,5°,Baja,Medio,6.9,6,Sí,No,Cercano,No,Madre/padre solo,Bajo,No
+233,Femenino,14,4°,Baja,Bajo,6.2,9,No,No,Medio,Sí,Con otros familiares,Medio,Sí
+234,Masculino,16,3°,Alta,Alto,8.5,18,Sí,Sí,Lejos,No,Madre/padre solo,Bajo,No
+235,Masculino,16,3°,Alta,Bajo,6.8,0,No,Sí,Lejos,Sí,Con ambos padres,Alto,Sí
+236,Masculino,17,2°,Baja,Alto,8.3,5,No,Sí,Medio,No,Con ambos padres,Alto,No
+237,Masculino,17,5°,Alta,Alto,7.4,1,Sí,Sí,Medio,Sí,Con ambos padres,Bajo,No
+238,Femenino,17,1°,Media,Medio,6.1,0,Sí,No,Lejos,No,Con ambos padres,Alto,No
+239,Masculino,17,2°,Baja,Medio,5.0,19,Sí,Sí,Cercano,Sí,Madre/padre solo,Alto,No
+240,Masculino,14,3°,Baja,Medio,4.3,18,Sí,No,Medio,No,Madre/padre solo,Alto,No
+241,Femenino,13,3°,Media,Medio,7.4,20,Sí,No,Cercano,No,Madre/padre solo,Bajo,Sí
+242,Masculino,17,2°,Media,Bajo,10.0,11,No,Sí,Medio,Sí,Con ambos padres,Alto,No
+243,Femenino,14,4°,Media,Bajo,8.7,3,Sí,Sí,Cercano,No,Con otros familiares,Bajo,Sí
+244,Masculino,15,1°,Media,Alto,7.9,29,No,Sí,Lejos,No,Con ambos padres,Medio,Sí
+245,Femenino,14,2°,Baja,Medio,8.2,12,Sí,No,Lejos,No,Sin referente adulto,Bajo,No
+246,Masculino,18,2°,Media,Bajo,9.1,3,Sí,No,Lejos,Sí,Con otros familiares,Medio,Sí
+247,Masculino,16,1°,Baja,Bajo,5.4,7,No,Sí,Cercano,Sí,Madre/padre solo,Medio,No
+248,Masculino,18,4°,Alta,Bajo,8.3,5,Sí,Sí,Cercano,No,Con otros familiares,Alto,Sí
+249,Masculino,15,2°,Alta,Medio,6.1,24,Sí,Sí,Medio,Sí,Con ambos padres,Medio,Sí
+250,Femenino,18,2°,Baja,Alto,8.7,9,No,No,Cercano,Sí,Con otros familiares,Medio,No
+251,Femenino,18,5°,Alta,Alto,5.5,0,Sí,No,Lejos,No,Sin referente adulto,Medio,No
+252,Masculino,19,1°,Baja,Alto,6.5,25,No,Sí,Lejos,No,Madre/padre solo,Bajo,No
+253,Masculino,13,1°,Baja,Medio,6.7,7,No,No,Cercano,No,Sin referente adulto,Medio,No
+254,Femenino,16,3°,Baja,Bajo,7.6,11,No,No,Medio,No,Con ambos padres,Medio,Sí
+255,Femenino,17,1°,Media,Alto,6.7,30,Sí,No,Medio,Sí,Con otros familiares,Bajo,No
+256,Masculino,19,2°,Baja,Alto,4.1,24,No,Sí,Medio,Sí,Con otros familiares,Alto,No
+257,Femenino,14,1°,Media,Alto,6.6,1,No,No,Medio,No,Sin referente adulto,Medio,No
+258,Masculino,19,1°,Alta,Bajo,7.8,24,Sí,Sí,Medio,Sí,Madre/padre solo,Bajo,Sí
+259,Femenino,13,2°,Alta,Alto,8.4,25,No,Sí,Cercano,Sí,Con otros familiares,Medio,Sí
+260,Masculino,19,2°,Alta,Medio,6.9,27,No,No,Lejos,No,Con otros familiares,Alto,No
+261,Masculino,13,3°,Alta,Bajo,4.1,4,Sí,Sí,Cercano,Sí,Sin referente adulto,Bajo,Sí
+262,Masculino,14,4°,Baja,Bajo,8.3,30,No,No,Medio,Sí,Con otros familiares,Bajo,Sí
+263,Femenino,18,3°,Alta,Alto,9.6,28,Sí,No,Lejos,Sí,Sin referente adulto,Medio,No
+264,Masculino,13,1°,Baja,Medio,4.6,29,No,Sí,Medio,Sí,Sin referente adulto,Bajo,Sí
+265,Masculino,17,4°,Baja,Bajo,5.5,15,Sí,No,Lejos,Sí,Sin referente adulto,Alto,Sí
+266,Femenino,13,5°,Media,Alto,4.3,11,No,No,Lejos,Sí,Con ambos padres,Alto,No
+267,Masculino,13,3°,Media,Bajo,10.0,14,Sí,Sí,Medio,No,Madre/padre solo,Alto,No
+268,Femenino,15,4°,Media,Bajo,9.8,21,No,No,Cercano,Sí,Madre/padre solo,Medio,No
+269,Masculino,18,2°,Baja,Alto,9.1,0,Sí,Sí,Lejos,Sí,Con otros familiares,Alto,No
+270,Femenino,15,2°,Alta,Medio,5.7,17,No,Sí,Medio,No,Madre/padre solo,Bajo,No
+271,Masculino,13,2°,Alta,Alto,5.9,27,Sí,No,Medio,Sí,Madre/padre solo,Bajo,No
+272,Femenino,17,5°,Baja,Medio,8.1,9,Sí,No,Lejos,Sí,Sin referente adulto,Bajo,Sí
+273,Masculino,18,1°,Media,Medio,8.4,9,No,No,Medio,Sí,Con ambos padres,Bajo,Sí
+274,Masculino,14,4°,Alta,Bajo,5.0,19,Sí,No,Medio,No,Con otros familiares,Medio,Sí
+275,Masculino,16,3°,Alta,Alto,8.9,10,Sí,Sí,Lejos,Sí,Sin referente adulto,Bajo,No
+276,Masculino,17,4°,Alta,Medio,9.5,21,No,No,Medio,No,Sin referente adulto,Medio,Sí
+277,Masculino,15,3°,Baja,Medio,6.3,28,No,No,Cercano,No,Con ambos padres,Medio,Sí
+278,Femenino,19,2°,Baja,Alto,6.6,26,No,No,Lejos,No,Con otros familiares,Bajo,Sí
+279,Femenino,13,2°,Media,Medio,7.5,28,No,Sí,Medio,Sí,Sin referente adulto,Alto,Sí
+280,Masculino,17,1°,Baja,Bajo,9.3,9,Sí,Sí,Cercano,No,Sin referente adulto,Bajo,No
+281,Femenino,16,3°,Alta,Alto,10.0,13,Sí,No,Medio,No,Con ambos padres,Alto,Sí
+282,Femenino,16,4°,Alta,Medio,8.1,26,No,Sí,Cercano,No,Sin referente adulto,Alto,No
+283,Femenino,18,4°,Media,Bajo,4.7,28,Sí,Sí,Lejos,Sí,Sin referente adulto,Medio,No
+284,Femenino,13,1°,Baja,Bajo,5.3,18,No,Sí,Lejos,No,Con ambos padres,Medio,No
+285,Femenino,18,3°,Media,Alto,4.7,7,No,No,Cercano,Sí,Con otros familiares,Bajo,Sí
+286,Masculino,14,5°,Media,Alto,9.4,10,Sí,Sí,Cercano,No,Con otros familiares,Bajo,Sí
+287,Femenino,16,3°,Media,Medio,9.7,25,Sí,Sí,Cercano,No,Con otros familiares,Alto,Sí
+288,Masculino,14,2°,Alta,Bajo,4.1,9,Sí,No,Cercano,Sí,Madre/padre solo,Medio,No
+289,Femenino,14,1°,Media,Bajo,8.0,4,Sí,Sí,Cercano,No,Madre/padre solo,Medio,No
+290,Masculino,17,5°,Baja,Alto,4.2,13,Sí,No,Medio,No,Con ambos padres,Bajo,Sí
+291,Femenino,13,2°,Baja,Medio,4.3,13,Sí,No,Lejos,Sí,Con ambos padres,Medio,No
+292,Masculino,16,1°,Baja,Bajo,5.4,0,Sí,Sí,Cercano,No,Madre/padre solo,Alto,No
+293,Masculino,13,2°,Media,Medio,4.7,16,Sí,Sí,Lejos,Sí,Sin referente adulto,Bajo,Sí
+294,Masculino,18,5°,Baja,Medio,10.0,25,No,No,Medio,No,Con ambos padres,Bajo,No
+295,Masculino,19,3°,Alta,Bajo,4.8,12,No,Sí,Lejos,Sí,Con otros familiares,Bajo,Sí
+296,Femenino,14,3°,Baja,Alto,8.6,28,No,No,Medio,Sí,Con otros familiares,Medio,No
+297,Masculino,17,3°,Baja,Bajo,6.4,4,No,No,Cercano,Sí,Con otros familiares,Alto,No
+298,Masculino,15,2°,Baja,Bajo,5.8,19,Sí,No,Medio,Sí,Con otros familiares,Bajo,No
+299,Femenino,13,3°,Alta,Bajo,5.9,28,Sí,No,Cercano,Sí,Madre/padre solo,Medio,No
+300,Femenino,14,3°,Media,Bajo,8.3,26,No,No,Cercano,Sí,Madre/padre solo,Alto,No
+301,Masculino,14,3°,Media,Alto,9.0,19,Sí,No,Medio,Sí,Sin referente adulto,Bajo,No
+302,Masculino,14,3°,Media,Bajo,6.3,18,Sí,Sí,Medio,Sí,Con ambos padres,Bajo,Sí
+303,Femenino,13,4°,Alta,Medio,7.2,15,Sí,No,Lejos,No,Con ambos padres,Bajo,Sí
+304,Femenino,19,3°,Media,Medio,5.0,8,No,Sí,Lejos,Sí,Con ambos padres,Bajo,No
+305,Masculino,16,1°,Media,Bajo,5.7,10,Sí,Sí,Lejos,Sí,Con ambos padres,Medio,Sí
+306,Femenino,18,4°,Baja,Alto,4.1,4,No,Sí,Lejos,No,Sin referente adulto,Medio,No
+307,Femenino,16,3°,Media,Alto,4.7,0,Sí,Sí,Cercano,Sí,Con otros familiares,Alto,No
+308,Femenino,17,5°,Alta,Medio,9.9,6,No,Sí,Lejos,Sí,Sin referente adulto,Medio,Sí
+309,Masculino,15,2°,Alta,Medio,6.0,13,Sí,No,Lejos,No,Con otros familiares,Medio,No
+310,Masculino,18,2°,Baja,Medio,4.1,9,Sí,No,Lejos,No,Madre/padre solo,Bajo,Sí
+311,Femenino,19,4°,Alta,Alto,10.0,18,No,No,Medio,No,Sin referente adulto,Medio,No
+312,Femenino,19,3°,Alta,Alto,7.5,8,Sí,Sí,Lejos,Sí,Con otros familiares,Medio,No
+313,Masculino,15,5°,Media,Alto,9.3,25,No,Sí,Medio,Sí,Con otros familiares,Medio,Sí
+314,Femenino,19,1°,Alta,Alto,5.5,8,Sí,Sí,Cercano,Sí,Sin referente adulto,Bajo,Sí
+315,Masculino,17,1°,Media,Bajo,5.9,18,Sí,Sí,Lejos,No,Sin referente adulto,Alto,No
+316,Femenino,15,3°,Baja,Bajo,8.5,4,Sí,Sí,Medio,Sí,Sin referente adulto,Medio,Sí
+317,Masculino,16,4°,Baja,Alto,7.2,24,No,No,Lejos,Sí,Con ambos padres,Bajo,Sí
+318,Masculino,15,1°,Alta,Bajo,9.0,14,Sí,No,Cercano,No,Con ambos padres,Alto,Sí
+319,Masculino,14,4°,Baja,Alto,4.9,4,No,No,Medio,No,Con otros familiares,Medio,Sí
+320,Masculino,15,2°,Alta,Medio,4.1,28,No,Sí,Medio,Sí,Con otros familiares,Alto,No
+321,Masculino,14,5°,Alta,Bajo,5.3,9,Sí,Sí,Medio,No,Con ambos padres,Medio,No
+322,Femenino,16,3°,Media,Bajo,4.2,30,Sí,Sí,Medio,No,Con ambos padres,Medio,Sí
+323,Femenino,13,4°,Media,Medio,9.5,22,Sí,Sí,Medio,Sí,Con ambos padres,Medio,Sí
+324,Femenino,15,5°,Baja,Bajo,5.5,19,Sí,Sí,Medio,Sí,Sin referente adulto,Bajo,Sí
+325,Masculino,13,5°,Baja,Alto,4.7,6,Sí,Sí,Medio,Sí,Madre/padre solo,Bajo,No
+326,Masculino,19,4°,Alta,Alto,9.7,5,No,No,Lejos,Sí,Con ambos padres,Alto,Sí
+327,Masculino,18,3°,Baja,Alto,5.3,10,No,No,Medio,Sí,Con otros familiares,Medio,Sí
+328,Masculino,13,4°,Media,Bajo,4.7,25,Sí,No,Lejos,No,Madre/padre solo,Alto,No
+329,Femenino,13,1°,Alta,Bajo,4.4,28,No,No,Medio,No,Con ambos padres,Medio,Sí
+330,Masculino,19,3°,Alta,Medio,7.5,18,Sí,Sí,Medio,No,Madre/padre solo,Alto,No
+331,Femenino,19,2°,Alta,Alto,5.3,17,Sí,No,Cercano,No,Sin referente adulto,Bajo,Sí
+332,Femenino,17,3°,Alta,Alto,6.9,6,No,No,Medio,Sí,Sin referente adulto,Medio,Sí
+333,Femenino,16,2°,Baja,Alto,8.2,19,Sí,No,Lejos,Sí,Madre/padre solo,Alto,No
+334,Masculino,19,3°,Alta,Alto,9.1,27,No,No,Medio,Sí,Con ambos padres,Medio,Sí
+335,Femenino,14,4°,Baja,Alto,8.1,22,No,Sí,Medio,No,Sin referente adulto,Alto,No
+336,Femenino,14,3°,Alta,Bajo,7.8,11,No,Sí,Lejos,No,Con ambos padres,Bajo,Sí
+337,Femenino,18,4°,Baja,Medio,6.2,11,No,Sí,Medio,Sí,Madre/padre solo,Alto,Sí
+338,Femenino,16,5°,Media,Medio,8.2,18,Sí,Sí,Cercano,Sí,Madre/padre solo,Alto,Sí
+339,Masculino,14,3°,Media,Alto,9.0,23,Sí,Sí,Medio,Sí,Con ambos padres,Medio,No
+340,Masculino,15,5°,Media,Bajo,8.4,2,Sí,No,Medio,No,Con otros familiares,Bajo,No
+341,Femenino,18,2°,Alta,Alto,7.8,2,Sí,No,Cercano,No,Con ambos padres,Medio,Sí
+342,Masculino,16,3°,Media,Alto,7.1,5,No,Sí,Lejos,No,Con ambos padres,Bajo,Sí
+343,Masculino,13,4°,Alta,Bajo,4.1,2,No,Sí,Cercano,Sí,Con otros familiares,Alto,Sí
+344,Femenino,19,5°,Baja,Alto,9.1,27,No,Sí,Cercano,Sí,Sin referente adulto,Alto,Sí
+345,Femenino,19,5°,Baja,Alto,5.3,23,Sí,Sí,Lejos,No,Sin referente adulto,Alto,No
+346,Masculino,18,3°,Media,Alto,5.5,14,No,Sí,Cercano,Sí,Con otros familiares,Medio,No
+347,Femenino,19,5°,Media,Alto,8.0,29,Sí,No,Medio,Sí,Con ambos padres,Alto,Sí
+348,Femenino,14,4°,Alta,Bajo,9.9,13,Sí,Sí,Lejos,No,Madre/padre solo,Bajo,Sí
+349,Masculino,17,3°,Alta,Bajo,5.9,3,Sí,No,Cercano,No,Sin referente adulto,Bajo,No
+350,Masculino,13,1°,Baja,Medio,6.8,17,No,Sí,Medio,No,Madre/padre solo,Bajo,Sí
+351,Femenino,15,5°,Alta,Bajo,5.1,9,No,Sí,Medio,Sí,Madre/padre solo,Alto,Sí
+352,Masculino,15,3°,Media,Medio,5.9,0,No,No,Cercano,Sí,Sin referente adulto,Alto,Sí
+353,Masculino,18,5°,Media,Alto,4.8,10,No,No,Medio,Sí,Sin referente adulto,Alto,Sí
+354,Femenino,19,1°,Alta,Medio,5.2,5,Sí,Sí,Medio,No,Con otros familiares,Alto,Sí
+355,Masculino,15,4°,Alta,Bajo,7.0,29,Sí,No,Medio,Sí,Madre/padre solo,Medio,Sí
+356,Masculino,18,4°,Media,Bajo,7.2,4,Sí,No,Medio,No,Madre/padre solo,Alto,No
+357,Femenino,15,5°,Alta,Alto,7.6,11,No,Sí,Cercano,No,Con ambos padres,Bajo,No
+358,Masculino,13,3°,Alta,Alto,7.2,30,No,No,Medio,No,Con ambos padres,Alto,No
+359,Masculino,13,3°,Media,Alto,4.6,25,No,No,Cercano,Sí,Madre/padre solo,Alto,No
+360,Masculino,14,1°,Baja,Medio,5.5,19,Sí,Sí,Cercano,Sí,Con ambos padres,Alto,No
+361,Femenino,16,5°,Alta,Bajo,5.3,9,Sí,No,Lejos,Sí,Madre/padre solo,Alto,No
+362,Femenino,16,1°,Alta,Medio,4.5,14,Sí,Sí,Medio,Sí,Madre/padre solo,Bajo,Sí
+363,Femenino,18,3°,Alta,Bajo,4.3,30,No,Sí,Lejos,No,Madre/padre solo,Bajo,Sí
+364,Femenino,14,5°,Alta,Medio,4.2,8,Sí,No,Lejos,Sí,Sin referente adulto,Bajo,No
+365,Femenino,15,1°,Baja,Medio,6.9,27,No,Sí,Cercano,Sí,Con ambos padres,Alto,No
+366,Masculino,16,3°,Alta,Bajo,8.7,9,No,No,Cercano,No,Madre/padre solo,Medio,Sí
+367,Masculino,17,1°,Alta,Medio,7.7,26,No,Sí,Cercano,Sí,Con otros familiares,Bajo,No
+368,Masculino,16,4°,Baja,Medio,5.1,4,No,Sí,Cercano,Sí,Sin referente adulto,Medio,No
+369,Femenino,13,2°,Media,Alto,4.8,13,No,No,Cercano,Sí,Madre/padre solo,Alto,Sí
+370,Femenino,18,5°,Baja,Bajo,6.4,13,No,No,Lejos,Sí,Con otros familiares,Medio,No
+371,Masculino,18,2°,Alta,Bajo,5.9,0,No,No,Medio,No,Con otros familiares,Bajo,Sí
+372,Masculino,19,5°,Media,Bajo,5.3,17,No,No,Cercano,No,Con otros familiares,Alto,Sí
+373,Masculino,15,3°,Baja,Alto,5.3,24,Sí,Sí,Medio,Sí,Con ambos padres,Alto,Sí
+374,Masculino,16,4°,Media,Medio,7.7,27,Sí,Sí,Medio,Sí,Con ambos padres,Medio,No
+375,Femenino,17,4°,Media,Alto,6.7,14,No,Sí,Medio,No,Con ambos padres,Medio,No
+376,Femenino,17,4°,Baja,Bajo,8.5,2,Sí,Sí,Cercano,No,Madre/padre solo,Bajo,Sí
+377,Masculino,18,4°,Baja,Bajo,4.3,24,Sí,Sí,Medio,No,Con ambos padres,Medio,No
+378,Masculino,14,1°,Baja,Medio,9.0,15,Sí,Sí,Medio,Sí,Con otros familiares,Bajo,No
+379,Masculino,15,1°,Alta,Medio,4.2,1,Sí,Sí,Medio,No,Con ambos padres,Medio,No
+380,Femenino,18,4°,Alta,Bajo,9.9,8,No,No,Lejos,Sí,Sin referente adulto,Medio,No
+381,Masculino,17,5°,Alta,Bajo,7.2,14,No,Sí,Cercano,Sí,Con otros familiares,Medio,No
+382,Masculino,18,1°,Baja,Alto,9.9,4,No,No,Cercano,No,Madre/padre solo,Medio,No
+383,Masculino,14,3°,Media,Bajo,5.0,13,Sí,Sí,Medio,Sí,Con ambos padres,Alto,Sí
+384,Femenino,16,2°,Baja,Medio,9.5,3,Sí,Sí,Medio,No,Con otros familiares,Bajo,No
+385,Masculino,13,1°,Baja,Medio,9.0,0,No,Sí,Lejos,Sí,Con ambos padres,Bajo,Sí
+386,Masculino,13,1°,Baja,Alto,7.2,0,Sí,Sí,Cercano,Sí,Sin referente adulto,Medio,No
+387,Masculino,17,5°,Media,Medio,9.3,8,Sí,Sí,Cercano,Sí,Con otros familiares,Bajo,Sí
+388,Femenino,19,1°,Alta,Medio,8.8,25,Sí,No,Cercano,Sí,Con otros familiares,Bajo,No
+389,Femenino,18,3°,Media,Alto,8.7,24,No,No,Medio,Sí,Con otros familiares,Medio,No
+390,Masculino,18,4°,Media,Bajo,7.4,18,No,Sí,Lejos,No,Madre/padre solo,Alto,No
+391,Femenino,18,5°,Baja,Bajo,6.8,18,No,No,Cercano,Sí,Con ambos padres,Bajo,Sí
+392,Femenino,18,4°,Media,Bajo,7.0,11,Sí,No,Cercano,No,Madre/padre solo,Bajo,No
+393,Femenino,13,1°,Baja,Alto,4.4,23,No,Sí,Lejos,Sí,Madre/padre solo,Alto,Sí
+394,Masculino,14,2°,Baja,Medio,5.4,17,No,Sí,Medio,No,Con ambos padres,Alto,Sí
+395,Femenino,16,5°,Alta,Medio,5.7,17,Sí,No,Medio,No,Con ambos padres,Medio,Sí
+396,Masculino,19,2°,Media,Bajo,10.0,17,No,No,Lejos,Sí,Con otros familiares,Bajo,No
+397,Masculino,13,4°,Baja,Medio,8.5,22,Sí,No,Medio,No,Madre/padre solo,Bajo,No
+398,Femenino,15,3°,Baja,Medio,7.5,25,No,Sí,Medio,Sí,Madre/padre solo,Medio,Sí
+399,Femenino,13,4°,Alta,Bajo,4.5,15,Sí,Sí,Cercano,No,Sin referente adulto,Alto,No
+400,Femenino,19,2°,Baja,Alto,9.3,10,Sí,Sí,Medio,No,Sin referente adulto,Alto,Sí
+401,Femenino,19,3°,Media,Alto,7.8,5,Sí,No,Lejos,No,Con ambos padres,Alto,No
+402,Masculino,19,1°,Baja,Alto,6.7,6,No,No,Medio,Sí,Con ambos padres,Alto,Sí
+403,Masculino,16,1°,Media,Medio,5.8,4,Sí,No,Cercano,Sí,Sin referente adulto,Bajo,No
+404,Masculino,19,1°,Alta,Medio,7.4,21,Sí,Sí,Lejos,No,Con otros familiares,Alto,Sí
+405,Femenino,19,2°,Baja,Alto,8.3,24,No,Sí,Lejos,No,Madre/padre solo,Bajo,No
+406,Femenino,17,4°,Baja,Bajo,7.9,3,No,Sí,Lejos,No,Con otros familiares,Medio,Sí
+407,Femenino,17,3°,Baja,Medio,8.5,5,Sí,No,Medio,Sí,Sin referente adulto,Bajo,Sí
+408,Femenino,18,5°,Media,Bajo,8.1,9,No,Sí,Lejos,No,Sin referente adulto,Bajo,No
+409,Masculino,17,4°,Alta,Bajo,6.6,9,Sí,No,Lejos,Sí,Sin referente adulto,Alto,Sí
+410,Masculino,17,2°,Baja,Bajo,7.5,24,No,No,Lejos,Sí,Con ambos padres,Medio,No
+411,Masculino,15,1°,Media,Medio,5.8,30,No,Sí,Cercano,Sí,Con otros familiares,Medio,Sí
+412,Masculino,16,2°,Alta,Alto,9.6,28,No,Sí,Cercano,No,Madre/padre solo,Alto,No
+413,Masculino,19,4°,Baja,Alto,8.1,10,No,No,Cercano,No,Con ambos padres,Alto,No
+414,Masculino,18,3°,Alta,Medio,5.7,4,Sí,No,Cercano,Sí,Sin referente adulto,Bajo,Sí
+415,Masculino,17,5°,Alta,Alto,9.1,17,Sí,Sí,Cercano,No,Sin referente adulto,Medio,No
+416,Masculino,17,2°,Media,Bajo,8.3,8,No,Sí,Medio,Sí,Sin referente adulto,Medio,Sí
+417,Femenino,16,2°,Alta,Medio,9.8,13,Sí,Sí,Medio,Sí,Con otros familiares,Bajo,No
+418,Femenino,15,4°,Alta,Medio,8.1,3,No,No,Lejos,Sí,Sin referente adulto,Medio,Sí
+419,Femenino,17,3°,Baja,Alto,9.2,11,No,No,Medio,Sí,Sin referente adulto,Alto,Sí
+420,Masculino,17,2°,Media,Alto,9.6,27,No,No,Medio,Sí,Sin referente adulto,Medio,No
+421,Masculino,17,2°,Baja,Alto,7.1,20,Sí,No,Lejos,No,Sin referente adulto,Alto,No
+422,Femenino,17,4°,Media,Alto,7.2,23,Sí,No,Cercano,No,Madre/padre solo,Bajo,No
+423,Femenino,19,1°,Media,Bajo,5.1,22,No,No,Lejos,No,Con otros familiares,Alto,Sí
+424,Femenino,18,5°,Media,Alto,5.9,11,Sí,Sí,Lejos,No,Con ambos padres,Bajo,Sí
+425,Masculino,14,5°,Baja,Alto,4.2,29,Sí,No,Medio,No,Sin referente adulto,Alto,No
+426,Masculino,13,5°,Media,Bajo,5.2,7,No,Sí,Cercano,Sí,Con ambos padres,Medio,Sí
+427,Masculino,16,2°,Alta,Alto,5.5,19,Sí,No,Lejos,Sí,Madre/padre solo,Medio,Sí
+428,Masculino,19,1°,Alta,Bajo,6.4,23,Sí,Sí,Lejos,No,Sin referente adulto,Bajo,No
+429,Masculino,13,3°,Media,Medio,7.7,26,No,Sí,Lejos,Sí,Con otros familiares,Medio,No
+430,Femenino,16,3°,Media,Bajo,9.9,15,Sí,No,Lejos,No,Sin referente adulto,Medio,No
+431,Masculino,17,4°,Media,Bajo,5.4,30,No,No,Lejos,No,Con otros familiares,Alto,No
+432,Masculino,14,4°,Alta,Medio,8.6,29,No,Sí,Medio,No,Madre/padre solo,Medio,Sí
+433,Masculino,19,3°,Baja,Medio,9.0,30,Sí,Sí,Medio,Sí,Con otros familiares,Medio,No
+434,Femenino,17,4°,Alta,Medio,4.3,17,No,No,Cercano,No,Con otros familiares,Medio,Sí
+435,Masculino,18,3°,Media,Alto,5.1,19,Sí,Sí,Cercano,No,Sin referente adulto,Medio,No
+436,Masculino,13,1°,Baja,Medio,7.2,28,No,No,Lejos,Sí,Sin referente adulto,Medio,Sí
+437,Femenino,16,1°,Alta,Alto,4.0,7,Sí,Sí,Cercano,No,Con otros familiares,Alto,No
+438,Masculino,13,2°,Media,Bajo,4.2,14,No,No,Cercano,No,Madre/padre solo,Alto,Sí
+439,Masculino,16,2°,Alta,Alto,7.9,0,No,No,Cercano,Sí,Con otros familiares,Bajo,No
+440,Femenino,17,3°,Alta,Medio,9.4,14,Sí,No,Lejos,No,Sin referente adulto,Bajo,Sí
+441,Femenino,16,2°,Media,Alto,7.9,3,No,No,Medio,Sí,Sin referente adulto,Alto,No
+442,Femenino,15,4°,Media,Alto,4.7,4,Sí,Sí,Lejos,No,Sin referente adulto,Medio,Sí
+443,Femenino,18,4°,Baja,Alto,6.6,5,Sí,Sí,Medio,No,Madre/padre solo,Medio,Sí
+444,Masculino,15,3°,Media,Bajo,4.4,27,No,Sí,Medio,Sí,Con otros familiares,Alto,Sí
+445,Masculino,16,5°,Baja,Medio,9.8,6,No,No,Lejos,No,Sin referente adulto,Alto,No
+446,Masculino,18,5°,Media,Medio,5.1,29,Sí,Sí,Cercano,Sí,Con ambos padres,Bajo,Sí
+447,Masculino,19,1°,Media,Alto,5.6,29,No,Sí,Cercano,No,Madre/padre solo,Medio,Sí
+448,Masculino,14,3°,Media,Medio,7.9,1,Sí,No,Lejos,No,Con ambos padres,Alto,Sí
+449,Femenino,13,4°,Baja,Bajo,7.0,21,No,No,Medio,Sí,Sin referente adulto,Alto,Sí
+450,Masculino,15,2°,Media,Medio,9.1,2,No,Sí,Lejos,No,Con ambos padres,Alto,No
+451,Masculino,13,5°,Media,Bajo,4.7,3,Sí,Sí,Lejos,No,Con ambos padres,Alto,Sí
+452,Masculino,13,2°,Alta,Alto,4.7,4,No,No,Lejos,Sí,Madre/padre solo,Bajo,No
+453,Femenino,16,1°,Media,Alto,5.1,26,Sí,No,Cercano,No,Madre/padre solo,Alto,No
+454,Masculino,17,5°,Media,Bajo,8.8,15,No,No,Lejos,No,Con otros familiares,Medio,Sí
+455,Femenino,18,1°,Alta,Bajo,6.8,13,No,Sí,Medio,No,Sin referente adulto,Medio,Sí
+456,Femenino,16,4°,Media,Bajo,9.0,30,No,No,Cercano,No,Madre/padre solo,Alto,Sí
+457,Femenino,18,4°,Media,Bajo,10.0,25,Sí,No,Lejos,No,Madre/padre solo,Alto,Sí
+458,Masculino,13,2°,Alta,Alto,4.8,15,Sí,No,Lejos,Sí,Madre/padre solo,Bajo,Sí
+459,Masculino,15,5°,Alta,Medio,9.4,14,Sí,No,Lejos,No,Sin referente adulto,Bajo,Sí
+460,Femenino,17,5°,Alta,Alto,9.9,22,Sí,Sí,Medio,Sí,Con otros familiares,Alto,Sí
+461,Masculino,18,4°,Media,Medio,5.1,19,Sí,No,Lejos,No,Con ambos padres,Alto,Sí
+462,Masculino,16,2°,Alta,Medio,7.6,3,No,No,Lejos,Sí,Con ambos padres,Alto,No
+463,Masculino,18,2°,Alta,Bajo,7.7,3,No,No,Cercano,No,Con otros familiares,Medio,Sí
+464,Femenino,19,4°,Baja,Bajo,5.2,17,No,No,Medio,Sí,Con otros familiares,Medio,Sí
+465,Masculino,15,5°,Media,Medio,5.7,16,No,No,Cercano,Sí,Madre/padre solo,Medio,Sí
+466,Femenino,15,2°,Baja,Alto,4.0,21,Sí,No,Lejos,No,Madre/padre solo,Medio,Sí
+467,Masculino,13,4°,Alta,Alto,6.2,23,No,No,Lejos,No,Madre/padre solo,Bajo,Sí
+468,Masculino,19,2°,Alta,Alto,6.6,14,Sí,No,Cercano,Sí,Con otros familiares,Bajo,Sí
+469,Masculino,16,1°,Baja,Bajo,9.0,29,Sí,No,Lejos,No,Madre/padre solo,Medio,No
+470,Femenino,17,1°,Alta,Alto,9.3,5,Sí,No,Cercano,No,Con otros familiares,Alto,No
+471,Masculino,17,3°,Media,Medio,5.8,4,No,Sí,Medio,Sí,Con otros familiares,Alto,Sí
+472,Femenino,15,5°,Alta,Bajo,5.5,21,Sí,No,Lejos,Sí,Madre/padre solo,Bajo,No
+473,Masculino,19,1°,Baja,Alto,6.6,26,No,Sí,Medio,Sí,Madre/padre solo,Bajo,No
+474,Femenino,15,4°,Media,Medio,6.3,2,No,Sí,Lejos,Sí,Sin referente adulto,Alto,Sí
+475,Femenino,17,2°,Baja,Medio,6.8,27,Sí,No,Medio,Sí,Con otros familiares,Bajo,No
+476,Femenino,19,4°,Media,Medio,6.0,21,Sí,Sí,Medio,Sí,Madre/padre solo,Medio,Sí
+477,Femenino,18,3°,Baja,Medio,4.7,12,No,No,Cercano,No,Madre/padre solo,Medio,No
+478,Masculino,14,3°,Alta,Medio,5.1,18,Sí,Sí,Lejos,No,Con otros familiares,Bajo,Sí
+479,Masculino,16,5°,Media,Alto,6.2,16,Sí,Sí,Cercano,Sí,Con ambos padres,Alto,No
+480,Femenino,17,5°,Baja,Alto,4.5,27,No,Sí,Medio,Sí,Madre/padre solo,Alto,No
+481,Femenino,17,2°,Media,Bajo,7.5,13,Sí,Sí,Lejos,No,Madre/padre solo,Alto,No
+482,Femenino,16,2°,Media,Medio,4.7,26,No,No,Medio,Sí,Madre/padre solo,Medio,Sí
+483,Femenino,13,4°,Baja,Bajo,9.5,25,No,Sí,Lejos,No,Con ambos padres,Bajo,Sí
+484,Masculino,18,1°,Baja,Bajo,7.3,12,No,Sí,Lejos,Sí,Sin referente adulto,Bajo,No
+485,Femenino,17,2°,Baja,Bajo,8.3,7,Sí,No,Cercano,No,Madre/padre solo,Alto,Sí
+486,Masculino,14,5°,Alta,Alto,5.0,15,No,No,Lejos,No,Con ambos padres,Alto,No
+487,Femenino,17,1°,Alta,Medio,6.8,7,Sí,Sí,Medio,No,Con otros familiares,Bajo,No
+488,Masculino,15,2°,Alta,Medio,9.6,4,No,No,Medio,No,Con ambos padres,Alto,Sí
+489,Femenino,14,1°,Media,Medio,4.7,22,No,No,Lejos,No,Madre/padre solo,Alto,Sí
+490,Masculino,18,5°,Alta,Alto,6.0,23,Sí,No,Medio,Sí,Madre/padre solo,Bajo,No
+491,Masculino,16,4°,Media,Bajo,9.2,10,No,Sí,Cercano,No,Con otros familiares,Bajo,Sí
+492,Femenino,16,3°,Alta,Medio,6.2,25,No,Sí,Lejos,Sí,Con otros familiares,Medio,Sí
+493,Masculino,17,4°,Alta,Alto,9.5,4,No,No,Medio,Sí,Con ambos padres,Bajo,Sí
+494,Masculino,17,5°,Media,Bajo,9.4,30,Sí,Sí,Medio,Sí,Sin referente adulto,Medio,No
+495,Femenino,16,4°,Media,Alto,8.0,30,No,No,Cercano,No,Sin referente adulto,Alto,No
+496,Femenino,15,1°,Alta,Alto,7.9,30,No,No,Medio,No,Sin referente adulto,Medio,Sí
+497,Femenino,13,5°,Alta,Alto,7.2,5,Sí,No,Cercano,Sí,Con ambos padres,Medio,No
+498,Masculino,18,5°,Alta,Alto,4.7,25,Sí,Sí,Cercano,Sí,Madre/padre solo,Bajo,No
+499,Masculino,18,3°,Baja,Medio,7.8,2,No,Sí,Cercano,No,Con otros familiares,Alto,No
+500,Femenino,14,3°,Baja,Medio,6.6,5,No,Sí,Medio,Sí,Madre/padre solo,Alto,No
+501,Masculino,14,2°,Media,Bajo,9.4,2,Sí,Sí,Medio,No,Madre/padre solo,Alto,No
+502,Femenino,16,3°,Baja,Medio,5.7,21,Sí,No,Cercano,No,Sin referente adulto,Bajo,No
+503,Femenino,18,4°,Alta,Medio,4.7,13,Sí,Sí,Lejos,No,Con otros familiares,Alto,No
+504,Femenino,13,2°,Baja,Medio,7.9,5,No,No,Lejos,Sí,Con ambos padres,Bajo,Sí
+505,Masculino,18,2°,Media,Bajo,8.0,5,Sí,No,Lejos,No,Sin referente adulto,Bajo,Sí
+506,Femenino,16,4°,Media,Medio,7.0,25,No,No,Medio,Sí,Con ambos padres,Alto,No
+507,Masculino,15,2°,Alta,Medio,4.1,12,No,Sí,Cercano,No,Sin referente adulto,Alto,Sí
+508,Masculino,13,2°,Baja,Medio,6.9,23,Sí,No,Cercano,No,Sin referente adulto,Medio,Sí
+509,Femenino,13,5°,Media,Medio,6.9,20,Sí,Sí,Cercano,Sí,Con otros familiares,Bajo,No
+510,Masculino,17,2°,Alta,Medio,9.5,19,Sí,Sí,Medio,No,Madre/padre solo,Bajo,No
+511,Femenino,13,1°,Media,Medio,7.4,22,No,Sí,Cercano,No,Con ambos padres,Alto,No
+512,Femenino,19,5°,Baja,Bajo,9.6,30,Sí,Sí,Medio,No,Con ambos padres,Medio,Sí
+513,Femenino,14,1°,Media,Alto,7.5,2,Sí,No,Lejos,No,Sin referente adulto,Bajo,Sí
+514,Femenino,19,3°,Alta,Bajo,6.2,26,No,No,Lejos,No,Madre/padre solo,Medio,Sí
+515,Femenino,14,3°,Baja,Bajo,5.6,3,Sí,Sí,Lejos,Sí,Madre/padre solo,Alto,Sí
+516,Masculino,14,2°,Alta,Medio,9.8,22,Sí,No,Lejos,No,Con ambos padres,Bajo,Sí
+517,Femenino,18,4°,Alta,Bajo,7.1,21,Sí,No,Cercano,No,Con ambos padres,Bajo,No
+518,Femenino,13,3°,Media,Alto,6.8,4,No,Sí,Medio,Sí,Con otros familiares,Bajo,No
+519,Masculino,16,4°,Media,Alto,9.8,13,No,No,Medio,Sí,Con otros familiares,Bajo,No
+520,Femenino,14,5°,Alta,Alto,5.0,11,Sí,No,Lejos,No,Madre/padre solo,Alto,Sí
+521,Masculino,18,2°,Alta,Medio,9.2,24,No,Sí,Lejos,Sí,Con otros familiares,Alto,No
+522,Femenino,19,5°,Alta,Alto,4.1,30,Sí,No,Cercano,Sí,Con otros familiares,Alto,No
+523,Femenino,16,2°,Baja,Alto,6.8,12,Sí,Sí,Lejos,No,Sin referente adulto,Bajo,Sí
+524,Femenino,19,3°,Media,Bajo,5.0,16,Sí,Sí,Lejos,No,Con otros familiares,Bajo,No
+525,Masculino,14,1°,Alta,Alto,7.4,24,No,Sí,Cercano,Sí,Sin referente adulto,Alto,Sí
+526,Masculino,14,5°,Alta,Medio,6.9,14,Sí,Sí,Cercano,No,Madre/padre solo,Bajo,No
+527,Masculino,19,4°,Media,Medio,5.4,18,Sí,Sí,Medio,No,Con otros familiares,Bajo,Sí
+528,Femenino,18,3°,Media,Bajo,5.2,3,Sí,Sí,Medio,Sí,Con otros familiares,Medio,No
+529,Masculino,19,2°,Alta,Medio,5.9,2,No,No,Cercano,Sí,Con otros familiares,Bajo,Sí
+530,Femenino,19,2°,Baja,Bajo,9.1,14,Sí,Sí,Cercano,Sí,Sin referente adulto,Medio,No
+531,Femenino,15,2°,Media,Alto,4.5,24,No,Sí,Cercano,Sí,Con ambos padres,Bajo,No
+532,Masculino,19,2°,Media,Bajo,5.7,27,No,Sí,Cercano,No,Con ambos padres,Medio,No
+533,Femenino,13,4°,Baja,Bajo,5.5,5,No,No,Lejos,Sí,Con ambos padres,Alto,Sí
+534,Masculino,18,5°,Alta,Medio,5.5,5,No,Sí,Medio,No,Con otros familiares,Bajo,Sí
+535,Masculino,18,2°,Media,Bajo,7.4,12,Sí,No,Cercano,No,Sin referente adulto,Alto,No
+536,Femenino,14,5°,Media,Bajo,8.0,12,No,Sí,Lejos,No,Con ambos padres,Bajo,No
+537,Femenino,13,5°,Media,Medio,7.3,27,Sí,Sí,Lejos,Sí,Sin referente adulto,Medio,No
+538,Masculino,14,2°,Media,Medio,5.5,18,Sí,No,Lejos,No,Con ambos padres,Bajo,No
+539,Femenino,17,5°,Baja,Medio,5.1,19,Sí,Sí,Cercano,No,Madre/padre solo,Medio,Sí
+540,Masculino,19,4°,Alta,Alto,8.5,25,No,No,Medio,Sí,Con otros familiares,Bajo,Sí
+541,Masculino,14,1°,Baja,Medio,4.4,9,Sí,No,Lejos,Sí,Sin referente adulto,Bajo,No
+542,Masculino,18,4°,Media,Alto,9.4,19,Sí,Sí,Medio,No,Madre/padre solo,Bajo,Sí
+543,Masculino,19,4°,Alta,Alto,8.2,0,Sí,No,Cercano,Sí,Con otros familiares,Alto,No
+544,Masculino,19,5°,Media,Alto,5.0,21,Sí,Sí,Lejos,Sí,Madre/padre solo,Alto,No
+545,Masculino,19,2°,Alta,Medio,9.7,7,Sí,Sí,Medio,Sí,Sin referente adulto,Alto,Sí
+546,Masculino,14,3°,Baja,Alto,5.0,9,No,No,Lejos,Sí,Sin referente adulto,Alto,Sí
+547,Masculino,15,3°,Alta,Alto,4.7,7,Sí,Sí,Cercano,Sí,Con otros familiares,Bajo,Sí
+548,Masculino,14,5°,Alta,Alto,5.8,11,Sí,Sí,Lejos,Sí,Con otros familiares,Alto,Sí
+549,Femenino,17,3°,Alta,Bajo,7.9,14,No,No,Lejos,No,Con otros familiares,Alto,No
+550,Masculino,15,4°,Baja,Medio,5.1,0,No,Sí,Lejos,No,Con otros familiares,Alto,Sí
+551,Femenino,13,3°,Baja,Medio,4.8,22,No,Sí,Lejos,No,Madre/padre solo,Medio,No
+552,Femenino,16,3°,Alta,Bajo,6.1,27,Sí,Sí,Cercano,Sí,Sin referente adulto,Medio,Sí
+553,Femenino,19,2°,Alta,Bajo,9.0,25,No,No,Cercano,Sí,Sin referente adulto,Bajo,Sí
+554,Femenino,19,1°,Media,Bajo,6.7,24,No,No,Lejos,No,Sin referente adulto,Alto,Sí
+555,Masculino,13,5°,Baja,Medio,5.7,14,No,No,Cercano,No,Madre/padre solo,Medio,Sí
+556,Masculino,18,3°,Alta,Bajo,7.7,24,Sí,No,Cercano,No,Madre/padre solo,Alto,No
+557,Femenino,13,1°,Baja,Alto,8.6,16,Sí,No,Cercano,Sí,Madre/padre solo,Bajo,Sí
+558,Masculino,18,4°,Media,Alto,8.0,14,No,No,Lejos,Sí,Madre/padre solo,Medio,No
+559,Femenino,17,3°,Baja,Medio,5.9,30,Sí,Sí,Lejos,Sí,Sin referente adulto,Bajo,No
+560,Masculino,17,1°,Media,Bajo,7.7,18,No,No,Lejos,Sí,Sin referente adulto,Medio,Sí
+561,Femenino,14,5°,Media,Medio,9.1,16,Sí,Sí,Lejos,Sí,Madre/padre solo,Medio,Sí
+562,Masculino,18,4°,Media,Bajo,7.0,16,Sí,Sí,Cercano,Sí,Madre/padre solo,Alto,Sí
+563,Masculino,14,5°,Baja,Bajo,7.5,7,No,No,Cercano,No,Sin referente adulto,Medio,Sí
+564,Femenino,19,1°,Alta,Medio,6.4,29,No,No,Cercano,No,Con otros familiares,Alto,Sí
+565,Masculino,13,2°,Baja,Medio,5.2,26,Sí,Sí,Cercano,Sí,Sin referente adulto,Bajo,Sí
+566,Masculino,18,3°,Alta,Medio,4.3,19,No,No,Medio,No,Sin referente adulto,Medio,Sí
+567,Femenino,14,3°,Media,Medio,6.4,19,No,Sí,Medio,Sí,Con otros familiares,Alto,No
+568,Femenino,15,4°,Alta,Bajo,6.5,16,No,No,Lejos,No,Madre/padre solo,Bajo,No
+569,Masculino,14,4°,Alta,Bajo,9.4,6,No,Sí,Lejos,No,Con otros familiares,Alto,No
+570,Femenino,16,3°,Media,Bajo,6.7,19,Sí,Sí,Medio,Sí,Madre/padre solo,Bajo,Sí
+571,Masculino,14,2°,Alta,Alto,5.0,4,Sí,Sí,Lejos,No,Con ambos padres,Bajo,No
+572,Masculino,16,4°,Baja,Bajo,6.1,6,No,No,Lejos,No,Madre/padre solo,Medio,No
+573,Masculino,14,5°,Media,Bajo,8.1,28,Sí,Sí,Lejos,No,Sin referente adulto,Alto,Sí
+574,Femenino,16,5°,Alta,Bajo,5.9,0,Sí,No,Cercano,Sí,Sin referente adulto,Medio,No
+575,Femenino,17,1°,Alta,Alto,4.0,12,Sí,No,Medio,Sí,Sin referente adulto,Bajo,No
+576,Masculino,18,2°,Alta,Alto,7.6,4,Sí,No,Cercano,No,Madre/padre solo,Alto,Sí
+577,Masculino,17,4°,Media,Alto,9.5,20,Sí,Sí,Cercano,Sí,Con ambos padres,Bajo,No
+578,Femenino,14,2°,Baja,Alto,7.7,23,No,Sí,Lejos,Sí,Sin referente adulto,Medio,No
+579,Masculino,15,1°,Baja,Medio,5.7,5,Sí,No,Cercano,Sí,Con ambos padres,Bajo,No
+580,Femenino,19,1°,Baja,Alto,8.1,30,Sí,Sí,Cercano,No,Madre/padre solo,Bajo,No
+581,Masculino,14,1°,Media,Alto,5.6,16,Sí,Sí,Lejos,No,Con ambos padres,Medio,Sí
+582,Masculino,15,2°,Alta,Bajo,4.9,3,Sí,No,Lejos,Sí,Madre/padre solo,Medio,Sí
+583,Masculino,19,4°,Media,Alto,5.1,12,Sí,Sí,Cercano,Sí,Sin referente adulto,Alto,Sí
+584,Femenino,18,2°,Baja,Bajo,7.4,10,No,Sí,Cercano,Sí,Sin referente adulto,Alto,No
+585,Femenino,19,3°,Media,Medio,5.1,15,Sí,No,Lejos,Sí,Sin referente adulto,Alto,Sí
+586,Masculino,14,3°,Media,Medio,5.8,26,No,No,Medio,Sí,Madre/padre solo,Alto,Sí
+587,Masculino,19,3°,Media,Medio,8.8,17,Sí,No,Lejos,Sí,Madre/padre solo,Alto,Sí
+588,Masculino,19,5°,Alta,Medio,5.1,8,Sí,Sí,Medio,Sí,Con ambos padres,Alto,No
+589,Masculino,16,5°,Media,Medio,8.8,15,Sí,Sí,Cercano,Sí,Sin referente adulto,Alto,Sí
+590,Masculino,17,1°,Media,Medio,7.6,11,Sí,No,Cercano,No,Sin referente adulto,Medio,No
+591,Femenino,13,3°,Media,Medio,5.9,24,Sí,No,Cercano,No,Con otros familiares,Medio,Sí
+592,Masculino,15,1°,Alta,Bajo,8.6,0,No,No,Medio,Sí,Con ambos padres,Medio,Sí
+593,Femenino,14,3°,Alta,Alto,7.4,22,Sí,Sí,Lejos,Sí,Sin referente adulto,Medio,Sí
+594,Masculino,14,4°,Media,Alto,4.6,9,Sí,Sí,Cercano,No,Madre/padre solo,Alto,No
+595,Femenino,18,5°,Media,Alto,8.9,15,No,No,Cercano,No,Con ambos padres,Alto,No
+596,Masculino,17,3°,Media,Alto,7.6,1,No,No,Lejos,No,Con ambos padres,Alto,No
+597,Masculino,16,1°,Baja,Bajo,9.8,2,No,Sí,Cercano,Sí,Sin referente adulto,Bajo,No
+598,Masculino,19,2°,Baja,Alto,6.0,22,Sí,Sí,Lejos,No,Con ambos padres,Alto,No
+599,Masculino,17,5°,Media,Alto,7.5,5,Sí,Sí,Cercano,No,Con ambos padres,Alto,No
+600,Femenino,17,5°,Baja,Bajo,8.1,19,No,No,Cercano,No,Con ambos padres,Bajo,No
+601,Masculino,16,2°,Alta,Bajo,8.7,16,No,Sí,Medio,Sí,Sin referente adulto,Bajo,No
+602,Femenino,14,4°,Alta,Alto,9.4,30,Sí,No,Cercano,No,Madre/padre solo,Bajo,No
+603,Masculino,15,3°,Baja,Medio,8.0,3,Sí,No,Medio,Sí,Madre/padre solo,Medio,Sí
+604,Femenino,16,2°,Media,Alto,9.5,28,Sí,Sí,Lejos,No,Sin referente adulto,Medio,No
+605,Femenino,17,3°,Media,Medio,5.5,30,Sí,Sí,Lejos,No,Con ambos padres,Bajo,No
+606,Masculino,19,5°,Media,Alto,7.9,23,No,No,Lejos,Sí,Con ambos padres,Bajo,Sí
+607,Femenino,16,3°,Media,Medio,9.5,29,No,No,Lejos,No,Con ambos padres,Medio,No
+608,Masculino,15,5°,Alta,Bajo,8.0,1,No,No,Medio,Sí,Con ambos padres,Alto,Sí
+609,Femenino,13,1°,Media,Bajo,6.7,13,No,No,Medio,Sí,Sin referente adulto,Medio,No
+610,Masculino,18,1°,Baja,Bajo,8.4,23,Sí,No,Cercano,No,Con ambos padres,Alto,No
+611,Masculino,18,5°,Baja,Alto,8.0,19,Sí,No,Cercano,No,Con otros familiares,Medio,Sí
+612,Femenino,16,4°,Baja,Alto,6.1,19,Sí,No,Lejos,No,Sin referente adulto,Medio,Sí
+613,Femenino,15,1°,Alta,Alto,5.9,12,Sí,No,Medio,Sí,Sin referente adulto,Medio,No
+614,Femenino,14,3°,Media,Bajo,7.4,18,No,Sí,Lejos,Sí,Madre/padre solo,Medio,No
+615,Masculino,18,1°,Alta,Medio,9.7,15,Sí,Sí,Lejos,Sí,Con ambos padres,Medio,Sí
+616,Femenino,13,5°,Media,Bajo,8.3,14,Sí,No,Medio,No,Sin referente adulto,Bajo,Sí
+617,Femenino,17,2°,Alta,Bajo,9.7,14,Sí,Sí,Medio,No,Con otros familiares,Alto,No
+618,Femenino,13,3°,Media,Medio,5.4,17,Sí,No,Cercano,No,Con ambos padres,Alto,Sí
+619,Femenino,16,5°,Media,Alto,5.1,25,Sí,Sí,Cercano,No,Madre/padre solo,Medio,Sí
+620,Femenino,18,5°,Baja,Alto,4.2,0,No,No,Medio,Sí,Con otros familiares,Medio,No
+621,Masculino,16,5°,Baja,Bajo,6.6,25,No,No,Lejos,No,Madre/padre solo,Bajo,Sí
+622,Femenino,14,4°,Alta,Medio,7.9,14,No,Sí,Medio,Sí,Madre/padre solo,Bajo,No
+623,Masculino,17,1°,Alta,Bajo,4.5,0,Sí,No,Lejos,Sí,Con otros familiares,Bajo,No
+624,Masculino,15,2°,Media,Bajo,4.9,26,No,Sí,Cercano,Sí,Con ambos padres,Bajo,Sí
+625,Masculino,17,3°,Alta,Medio,6.9,26,No,No,Medio,No,Con otros familiares,Bajo,No
+626,Masculino,17,2°,Baja,Bajo,8.5,22,Sí,Sí,Cercano,Sí,Madre/padre solo,Bajo,Sí
+627,Femenino,13,4°,Baja,Medio,7.3,14,Sí,No,Lejos,No,Madre/padre solo,Alto,No
+628,Femenino,19,2°,Alta,Medio,4.9,2,Sí,No,Lejos,Sí,Madre/padre solo,Alto,No
+629,Femenino,19,1°,Baja,Alto,9.4,18,No,Sí,Medio,No,Con otros familiares,Bajo,No
+630,Femenino,17,3°,Media,Bajo,9.1,26,Sí,Sí,Medio,Sí,Sin referente adulto,Alto,Sí
+631,Femenino,13,3°,Baja,Medio,6.0,29,Sí,No,Medio,No,Con otros familiares,Medio,Sí
+632,Femenino,18,4°,Alta,Medio,9.6,22,No,Sí,Lejos,No,Madre/padre solo,Bajo,No
+633,Femenino,16,2°,Baja,Medio,6.0,11,Sí,No,Cercano,Sí,Con ambos padres,Alto,Sí
+634,Masculino,13,3°,Alta,Bajo,7.0,22,Sí,Sí,Lejos,No,Sin referente adulto,Bajo,No
+635,Masculino,13,3°,Media,Medio,8.0,9,No,Sí,Medio,Sí,Con otros familiares,Alto,No
+636,Femenino,18,2°,Alta,Bajo,8.2,30,No,No,Medio,Sí,Con otros familiares,Alto,Sí
+637,Femenino,18,3°,Baja,Medio,6.0,30,No,No,Lejos,No,Con ambos padres,Medio,Sí
+638,Masculino,14,5°,Alta,Alto,8.6,16,No,Sí,Cercano,Sí,Con ambos padres,Medio,No
+639,Masculino,13,1°,Alta,Medio,9.3,9,Sí,No,Medio,Sí,Madre/padre solo,Alto,No
+640,Masculino,18,2°,Baja,Bajo,4.9,12,Sí,Sí,Lejos,No,Sin referente adulto,Alto,No
+641,Masculino,13,5°,Baja,Medio,8.9,6,Sí,Sí,Lejos,Sí,Sin referente adulto,Bajo,No
+642,Femenino,17,1°,Alta,Alto,8.4,8,Sí,Sí,Medio,Sí,Madre/padre solo,Alto,Sí
+643,Masculino,14,1°,Media,Bajo,5.2,25,Sí,No,Medio,Sí,Con otros familiares,Medio,Sí
+644,Femenino,13,3°,Baja,Alto,4.2,4,No,No,Cercano,Sí,Con ambos padres,Bajo,No
+645,Femenino,14,4°,Baja,Bajo,4.6,21,No,No,Medio,Sí,Con ambos padres,Bajo,Sí
+646,Masculino,16,1°,Media,Alto,9.0,24,No,Sí,Medio,Sí,Madre/padre solo,Medio,No
+647,Femenino,13,3°,Baja,Medio,7.4,25,Sí,No,Lejos,No,Madre/padre solo,Alto,No
+648,Masculino,19,4°,Baja,Bajo,9.9,2,No,Sí,Lejos,No,Con ambos padres,Bajo,No
+649,Masculino,14,1°,Alta,Medio,9.2,25,Sí,No,Cercano,No,Madre/padre solo,Alto,No
+650,Masculino,14,1°,Baja,Bajo,8.3,0,No,Sí,Cercano,Sí,Madre/padre solo,Alto,Sí
+651,Masculino,13,4°,Alta,Medio,4.3,24,No,No,Cercano,No,Con otros familiares,Bajo,No
+652,Femenino,13,4°,Alta,Alto,5.2,18,Sí,Sí,Medio,Sí,Madre/padre solo,Bajo,Sí
+653,Masculino,13,5°,Media,Medio,5.4,22,No,No,Cercano,Sí,Madre/padre solo,Medio,No
+654,Femenino,19,1°,Media,Bajo,7.6,19,Sí,No,Lejos,No,Con otros familiares,Bajo,No
+655,Masculino,17,5°,Alta,Bajo,6.1,3,Sí,No,Cercano,Sí,Con otros familiares,Bajo,No
+656,Femenino,19,5°,Alta,Alto,7.7,29,No,No,Medio,No,Madre/padre solo,Medio,Sí
+657,Femenino,17,1°,Baja,Medio,4.4,21,Sí,Sí,Medio,Sí,Madre/padre solo,Medio,No
+658,Femenino,17,5°,Media,Alto,7.2,7,No,No,Medio,No,Con otros familiares,Alto,Sí
+659,Masculino,15,1°,Media,Medio,9.0,4,Sí,Sí,Cercano,No,Con otros familiares,Bajo,Sí
+660,Masculino,17,4°,Baja,Bajo,4.2,25,Sí,No,Lejos,Sí,Madre/padre solo,Alto,Sí
+661,Masculino,19,2°,Alta,Bajo,4.1,8,No,No,Cercano,Sí,Con ambos padres,Bajo,No
+662,Femenino,17,3°,Alta,Bajo,4.6,17,No,No,Medio,Sí,Madre/padre solo,Alto,No
+663,Femenino,15,4°,Baja,Medio,6.3,28,Sí,No,Medio,Sí,Sin referente adulto,Medio,Sí
+664,Masculino,13,1°,Baja,Alto,5.2,25,No,Sí,Cercano,Sí,Con otros familiares,Alto,Sí
+665,Masculino,13,2°,Baja,Medio,5.3,23,No,No,Medio,No,Con ambos padres,Medio,No
+666,Masculino,15,4°,Baja,Bajo,4.6,21,No,Sí,Cercano,No,Madre/padre solo,Alto,Sí
+667,Femenino,17,1°,Baja,Alto,6.8,13,No,No,Cercano,No,Con ambos padres,Bajo,No
+668,Femenino,19,5°,Alta,Alto,7.4,16,No,Sí,Medio,Sí,Madre/padre solo,Alto,No
+669,Masculino,14,1°,Alta,Alto,9.7,26,No,Sí,Medio,Sí,Madre/padre solo,Alto,No
+670,Masculino,17,3°,Media,Medio,7.6,14,No,No,Medio,No,Sin referente adulto,Alto,Sí
+671,Masculino,16,5°,Baja,Alto,5.7,3,No,No,Medio,No,Sin referente adulto,Bajo,Sí
+672,Femenino,16,1°,Alta,Alto,9.2,16,No,Sí,Medio,Sí,Con otros familiares,Medio,Sí
+673,Masculino,15,4°,Alta,Medio,9.6,3,Sí,No,Cercano,Sí,Con otros familiares,Medio,Sí
+674,Femenino,19,2°,Media,Medio,9.5,12,No,Sí,Cercano,Sí,Madre/padre solo,Alto,No
+675,Masculino,15,2°,Baja,Alto,5.5,19,Sí,Sí,Cercano,No,Con otros familiares,Alto,No
+676,Femenino,18,3°,Alta,Bajo,8.8,12,No,Sí,Cercano,Sí,Sin referente adulto,Medio,No
+677,Masculino,13,2°,Media,Bajo,5.4,7,Sí,Sí,Lejos,Sí,Madre/padre solo,Bajo,Sí
+678,Masculino,15,4°,Media,Bajo,8.7,0,No,Sí,Lejos,No,Con otros familiares,Medio,No
+679,Femenino,19,5°,Media,Medio,7.6,7,No,No,Cercano,Sí,Madre/padre solo,Medio,No
+680,Masculino,13,3°,Alta,Alto,6.8,21,Sí,No,Cercano,No,Madre/padre solo,Alto,No
+681,Femenino,19,5°,Media,Alto,4.9,19,No,Sí,Lejos,Sí,Sin referente adulto,Medio,No
+682,Masculino,18,2°,Baja,Medio,6.8,13,No,Sí,Medio,Sí,Madre/padre solo,Bajo,No
+683,Femenino,18,4°,Baja,Alto,6.2,4,Sí,No,Lejos,Sí,Sin referente adulto,Alto,No
+684,Masculino,15,3°,Alta,Bajo,9.5,28,Sí,Sí,Medio,Sí,Sin referente adulto,Bajo,Sí
+685,Femenino,13,4°,Baja,Medio,9.2,26,No,Sí,Cercano,Sí,Con ambos padres,Medio,No
+686,Femenino,16,2°,Media,Bajo,7.6,0,Sí,Sí,Lejos,Sí,Con otros familiares,Bajo,No
+687,Masculino,19,1°,Media,Bajo,9.6,4,No,Sí,Lejos,Sí,Con otros familiares,Alto,Sí
+688,Masculino,18,4°,Baja,Bajo,8.4,29,Sí,Sí,Medio,Sí,Sin referente adulto,Medio,Sí
+689,Masculino,16,2°,Baja,Bajo,6.5,26,Sí,Sí,Medio,No,Con ambos padres,Alto,No
+690,Masculino,17,1°,Media,Alto,5.8,22,No,No,Cercano,Sí,Sin referente adulto,Bajo,No
+691,Femenino,13,4°,Alta,Medio,6.8,2,Sí,Sí,Lejos,Sí,Sin referente adulto,Alto,Sí
+692,Masculino,18,1°,Media,Alto,7.3,4,No,Sí,Cercano,Sí,Madre/padre solo,Bajo,No
+693,Femenino,13,5°,Alta,Bajo,5.9,10,Sí,No,Cercano,No,Con otros familiares,Alto,Sí
+694,Masculino,17,4°,Media,Bajo,8.6,17,Sí,No,Cercano,Sí,Con otros familiares,Alto,Sí
+695,Masculino,16,2°,Media,Medio,9.4,29,Sí,Sí,Medio,Sí,Sin referente adulto,Medio,No
+696,Femenino,17,1°,Alta,Bajo,7.6,21,No,No,Medio,Sí,Sin referente adulto,Bajo,No
+697,Masculino,13,3°,Baja,Medio,7.9,5,Sí,Sí,Cercano,Sí,Con ambos padres,Medio,No
+698,Femenino,18,5°,Baja,Alto,9.9,14,Sí,No,Lejos,Sí,Sin referente adulto,Alto,Sí
+699,Masculino,18,2°,Alta,Medio,4.2,17,Sí,Sí,Lejos,Sí,Madre/padre solo,Bajo,Sí
+700,Femenino,19,3°,Baja,Bajo,4.6,29,No,Sí,Medio,Sí,Madre/padre solo,Bajo,Sí
+701,Femenino,18,2°,Alta,Medio,5.7,4,No,Sí,Lejos,Sí,Madre/padre solo,Bajo,No
+702,Femenino,14,3°,Alta,Medio,7.8,30,No,No,Lejos,Sí,Madre/padre solo,Bajo,No
+703,Femenino,19,3°,Media,Alto,8.9,10,Sí,No,Lejos,No,Con otros familiares,Alto,Sí
+704,Masculino,13,3°,Baja,Alto,9.1,5,No,Sí,Lejos,No,Sin referente adulto,Medio,Sí
+705,Femenino,18,2°,Alta,Alto,7.0,21,Sí,Sí,Lejos,No,Sin referente adulto,Medio,Sí
+706,Masculino,15,3°,Alta,Medio,9.4,11,No,No,Lejos,Sí,Madre/padre solo,Alto,Sí
+707,Masculino,13,5°,Baja,Bajo,5.4,26,No,Sí,Lejos,No,Sin referente adulto,Medio,Sí
+708,Masculino,15,3°,Alta,Bajo,9.3,15,Sí,No,Cercano,No,Madre/padre solo,Bajo,Sí
+709,Femenino,13,2°,Baja,Alto,4.6,0,No,Sí,Medio,No,Con ambos padres,Medio,Sí
+710,Femenino,17,1°,Media,Bajo,9.2,23,No,Sí,Medio,Sí,Sin referente adulto,Medio,No
+711,Femenino,16,2°,Baja,Medio,9.8,27,Sí,No,Medio,No,Con ambos padres,Medio,Sí
+712,Masculino,15,4°,Media,Bajo,5.4,2,Sí,No,Medio,Sí,Sin referente adulto,Bajo,Sí
+713,Femenino,14,3°,Alta,Medio,5.5,12,No,Sí,Medio,Sí,Con otros familiares,Bajo,No
+714,Masculino,13,3°,Baja,Bajo,4.9,25,Sí,No,Lejos,Sí,Madre/padre solo,Alto,No
+715,Femenino,14,5°,Media,Alto,4.7,16,Sí,No,Cercano,No,Madre/padre solo,Bajo,Sí
+716,Masculino,16,2°,Baja,Medio,6.7,25,No,Sí,Lejos,Sí,Madre/padre solo,Medio,Sí
+717,Masculino,18,4°,Baja,Medio,9.5,12,Sí,Sí,Cercano,Sí,Con ambos padres,Medio,No
+718,Masculino,19,4°,Baja,Medio,6.2,24,Sí,No,Cercano,Sí,Sin referente adulto,Alto,Sí
+719,Masculino,15,2°,Baja,Bajo,8.7,29,Sí,No,Medio,Sí,Con ambos padres,Alto,Sí
+720,Femenino,15,5°,Media,Medio,7.1,12,No,No,Cercano,No,Madre/padre solo,Medio,Sí
+721,Masculino,13,2°,Alta,Alto,6.7,11,Sí,No,Lejos,Sí,Con otros familiares,Medio,Sí
+722,Femenino,17,2°,Media,Bajo,7.8,20,Sí,Sí,Cercano,No,Con ambos padres,Medio,Sí
+723,Masculino,18,1°,Baja,Medio,9.0,20,No,Sí,Medio,No,Con otros familiares,Bajo,Sí
+724,Masculino,16,2°,Media,Alto,5.5,16,No,Sí,Medio,No,Con ambos padres,Medio,Sí
+725,Masculino,15,1°,Alta,Alto,9.6,6,No,No,Cercano,Sí,Madre/padre solo,Bajo,Sí
+726,Masculino,14,3°,Media,Bajo,5.4,30,Sí,Sí,Lejos,No,Con otros familiares,Medio,No
+727,Masculino,15,2°,Baja,Medio,5.5,18,Sí,No,Cercano,No,Con ambos padres,Alto,Sí
+728,Femenino,16,2°,Alta,Bajo,9.9,1,Sí,No,Lejos,Sí,Madre/padre solo,Medio,No
+729,Masculino,18,5°,Alta,Bajo,5.2,4,No,No,Lejos,No,Sin referente adulto,Medio,Sí
+730,Masculino,14,2°,Alta,Alto,5.0,25,Sí,No,Cercano,Sí,Sin referente adulto,Alto,Sí
+731,Femenino,13,2°,Baja,Bajo,9.7,4,No,No,Lejos,Sí,Madre/padre solo,Bajo,Sí
+732,Masculino,16,3°,Media,Medio,5.2,19,No,Sí,Lejos,No,Sin referente adulto,Bajo,No
+733,Masculino,16,2°,Alta,Alto,7.8,1,Sí,No,Lejos,Sí,Con otros familiares,Alto,Sí
+734,Femenino,13,5°,Baja,Medio,8.0,14,Sí,No,Lejos,Sí,Con otros familiares,Medio,No
+735,Femenino,19,3°,Media,Alto,9.9,22,No,Sí,Lejos,No,Madre/padre solo,Bajo,Sí
+736,Masculino,15,5°,Alta,Alto,5.2,23,No,Sí,Cercano,Sí,Sin referente adulto,Medio,No
+737,Masculino,16,2°,Alta,Bajo,6.9,28,Sí,Sí,Cercano,No,Sin referente adulto,Alto,Sí
+738,Masculino,16,2°,Alta,Bajo,6.9,25,Sí,Sí,Lejos,No,Madre/padre solo,Alto,Sí
+739,Masculino,14,1°,Baja,Alto,6.9,0,No,Sí,Lejos,No,Sin referente adulto,Alto,Sí
+740,Femenino,19,5°,Media,Bajo,9.1,9,Sí,No,Medio,Sí,Sin referente adulto,Bajo,No
+741,Femenino,16,4°,Media,Medio,4.1,15,No,No,Lejos,Sí,Madre/padre solo,Bajo,Sí
+742,Masculino,13,4°,Baja,Bajo,8.4,9,Sí,Sí,Medio,No,Con ambos padres,Medio,Sí
+743,Femenino,13,2°,Baja,Bajo,8.7,10,No,No,Lejos,No,Sin referente adulto,Alto,Sí
+744,Femenino,19,1°,Media,Medio,5.2,27,Sí,Sí,Lejos,Sí,Con ambos padres,Bajo,Sí
+745,Masculino,19,2°,Baja,Bajo,8.8,24,Sí,No,Cercano,Sí,Con otros familiares,Alto,No
+746,Femenino,14,2°,Media,Alto,4.5,29,No,Sí,Medio,No,Con ambos padres,Alto,No
+747,Femenino,14,2°,Media,Alto,5.7,12,No,No,Cercano,Sí,Madre/padre solo,Medio,Sí
+748,Femenino,18,5°,Media,Bajo,6.5,5,Sí,Sí,Cercano,No,Con otros familiares,Medio,Sí
+749,Femenino,16,2°,Baja,Alto,4.9,25,No,Sí,Cercano,Sí,Sin referente adulto,Alto,No
+750,Masculino,19,3°,Alta,Bajo,6.6,18,Sí,No,Lejos,Sí,Con otros familiares,Bajo,No
+751,Femenino,13,5°,Alta,Medio,9.7,16,No,No,Lejos,No,Sin referente adulto,Bajo,Sí
+752,Masculino,17,1°,Media,Bajo,8.4,5,No,Sí,Cercano,Sí,Sin referente adulto,Bajo,No
+753,Masculino,19,5°,Alta,Alto,9.9,14,Sí,Sí,Cercano,Sí,Con ambos padres,Medio,Sí
+754,Masculino,13,4°,Media,Bajo,9.2,12,Sí,Sí,Cercano,No,Con ambos padres,Alto,No
+755,Masculino,14,1°,Media,Medio,7.9,22,Sí,No,Lejos,No,Con otros familiares,Bajo,No
+756,Femenino,15,2°,Alta,Medio,9.0,27,Sí,No,Cercano,Sí,Sin referente adulto,Medio,Sí
+757,Masculino,18,4°,Baja,Alto,9.9,22,Sí,Sí,Lejos,No,Con ambos padres,Bajo,No
+758,Femenino,18,1°,Alta,Bajo,7.7,17,Sí,Sí,Medio,No,Madre/padre solo,Medio,No
+759,Femenino,17,1°,Alta,Medio,5.0,20,No,Sí,Cercano,Sí,Madre/padre solo,Medio,No
+760,Masculino,14,1°,Baja,Alto,7.9,6,Sí,Sí,Lejos,Sí,Con ambos padres,Alto,Sí
+761,Femenino,17,2°,Alta,Medio,4.1,29,No,No,Lejos,Sí,Sin referente adulto,Alto,No
+762,Femenino,15,4°,Baja,Alto,8.8,4,No,Sí,Cercano,Sí,Con ambos padres,Alto,Sí
+763,Masculino,15,1°,Media,Medio,7.4,27,Sí,Sí,Cercano,Sí,Madre/padre solo,Alto,No
+764,Masculino,15,2°,Baja,Bajo,7.6,6,No,No,Cercano,No,Con otros familiares,Bajo,Sí
+765,Masculino,14,5°,Alta,Alto,5.1,12,No,No,Cercano,Sí,Sin referente adulto,Bajo,Sí
+766,Femenino,19,1°,Alta,Medio,8.2,9,Sí,Sí,Medio,Sí,Madre/padre solo,Alto,No
+767,Femenino,18,5°,Alta,Bajo,9.6,9,No,Sí,Cercano,Sí,Con ambos padres,Alto,No
+768,Femenino,18,1°,Baja,Medio,6.8,28,No,Sí,Lejos,No,Sin referente adulto,Medio,Sí
+769,Femenino,15,5°,Alta,Bajo,6.6,16,Sí,No,Medio,No,Madre/padre solo,Bajo,Sí
+770,Femenino,19,5°,Alta,Alto,4.4,18,No,Sí,Cercano,No,Sin referente adulto,Alto,Sí
+771,Femenino,15,4°,Baja,Bajo,7.1,14,No,No,Lejos,Sí,Con ambos padres,Bajo,Sí
+772,Femenino,14,5°,Alta,Alto,4.9,0,Sí,Sí,Cercano,Sí,Con ambos padres,Medio,No
+773,Femenino,19,3°,Baja,Bajo,5.0,23,No,No,Cercano,No,Con ambos padres,Bajo,No
+774,Masculino,18,4°,Baja,Medio,6.2,19,No,Sí,Lejos,No,Con otros familiares,Medio,No
+775,Femenino,19,2°,Alta,Bajo,8.7,8,Sí,No,Medio,Sí,Con otros familiares,Medio,No
+776,Masculino,18,1°,Baja,Alto,5.4,7,Sí,No,Cercano,Sí,Con otros familiares,Bajo,No
+777,Masculino,16,5°,Alta,Bajo,4.7,17,Sí,No,Cercano,No,Sin referente adulto,Alto,No
+778,Masculino,18,5°,Media,Alto,9.7,26,No,No,Medio,Sí,Madre/padre solo,Bajo,Sí
+779,Masculino,17,3°,Baja,Bajo,8.6,30,Sí,Sí,Cercano,Sí,Sin referente adulto,Alto,No
+780,Femenino,14,2°,Baja,Bajo,6.8,25,No,No,Medio,Sí,Con ambos padres,Medio,Sí
+781,Masculino,13,4°,Alta,Medio,9.9,0,No,No,Medio,No,Sin referente adulto,Bajo,No
+782,Masculino,18,2°,Media,Alto,4.9,7,Sí,No,Lejos,No,Madre/padre solo,Bajo,Sí
+783,Masculino,13,5°,Alta,Bajo,6.1,13,Sí,No,Cercano,No,Sin referente adulto,Alto,No
+784,Femenino,16,2°,Baja,Alto,9.7,3,Sí,No,Lejos,No,Con otros familiares,Medio,Sí
+785,Femenino,17,4°,Alta,Bajo,8.1,4,Sí,Sí,Cercano,Sí,Con ambos padres,Medio,No
+786,Femenino,18,4°,Baja,Bajo,4.0,17,Sí,Sí,Medio,Sí,Madre/padre solo,Medio,Sí
+787,Masculino,17,4°,Media,Alto,5.5,7,Sí,Sí,Cercano,Sí,Con ambos padres,Bajo,Sí
+788,Masculino,18,1°,Alta,Alto,5.3,11,No,Sí,Medio,Sí,Con ambos padres,Alto,Sí
+789,Masculino,15,3°,Baja,Bajo,5.7,16,Sí,Sí,Medio,No,Con otros familiares,Bajo,No
+790,Femenino,13,4°,Baja,Bajo,7.0,30,No,No,Lejos,No,Sin referente adulto,Medio,No
+791,Masculino,18,5°,Alta,Bajo,5.2,26,Sí,No,Lejos,Sí,Sin referente adulto,Alto,No
+792,Femenino,18,3°,Baja,Alto,9.7,14,No,No,Lejos,Sí,Con otros familiares,Alto,Sí
+793,Masculino,18,2°,Media,Medio,8.8,27,No,Sí,Medio,No,Con otros familiares,Medio,No
+794,Femenino,19,5°,Media,Bajo,7.3,30,No,No,Cercano,No,Con ambos padres,Bajo,No
+795,Femenino,14,5°,Alta,Bajo,4.8,24,Sí,No,Cercano,No,Madre/padre solo,Alto,Sí
+796,Masculino,18,5°,Media,Medio,8.0,13,No,No,Medio,Sí,Sin referente adulto,Alto,Sí
+797,Masculino,19,2°,Baja,Bajo,8.5,10,Sí,No,Cercano,Sí,Sin referente adulto,Medio,Sí
+798,Femenino,14,5°,Media,Alto,5.7,1,No,Sí,Cercano,No,Madre/padre solo,Medio,No
+799,Femenino,19,5°,Media,Bajo,8.1,3,Sí,No,Cercano,Sí,Sin referente adulto,Medio,Sí
+800,Masculino,19,2°,Media,Alto,8.1,13,No,Sí,Cercano,Sí,Con otros familiares,Medio,Sí
+801,Masculino,17,3°,Alta,Alto,6.5,6,Sí,Sí,Cercano,No,Sin referente adulto,Alto,Sí
+802,Masculino,19,2°,Alta,Medio,7.1,25,Sí,Sí,Cercano,Sí,Sin referente adulto,Alto,Sí
+803,Masculino,13,3°,Baja,Alto,4.3,12,No,No,Cercano,Sí,Madre/padre solo,Medio,Sí
+804,Femenino,14,4°,Media,Bajo,5.0,0,Sí,Sí,Lejos,No,Con otros familiares,Medio,Sí
+805,Femenino,13,1°,Media,Medio,8.6,26,Sí,Sí,Cercano,Sí,Con otros familiares,Alto,Sí
+806,Masculino,19,3°,Alta,Medio,9.1,29,No,No,Lejos,Sí,Con otros familiares,Alto,No
+807,Masculino,14,1°,Baja,Alto,8.7,9,Sí,No,Lejos,Sí,Con otros familiares,Medio,Sí
+808,Masculino,13,2°,Baja,Bajo,7.2,2,Sí,Sí,Lejos,No,Sin referente adulto,Alto,Sí
+809,Femenino,19,1°,Media,Medio,9.9,16,Sí,No,Lejos,Sí,Sin referente adulto,Bajo,No
+810,Masculino,19,2°,Alta,Medio,7.0,27,Sí,No,Cercano,Sí,Con ambos padres,Medio,Sí
+811,Masculino,19,5°,Alta,Medio,6.0,25,Sí,No,Lejos,No,Madre/padre solo,Medio,No
+812,Femenino,18,2°,Media,Alto,4.5,12,No,Sí,Cercano,Sí,Con ambos padres,Bajo,Sí
+813,Masculino,16,1°,Media,Bajo,5.5,28,No,Sí,Lejos,No,Madre/padre solo,Medio,Sí
+814,Masculino,14,4°,Media,Alto,5.4,17,No,No,Cercano,No,Con ambos padres,Alto,No
+815,Femenino,15,4°,Media,Alto,6.5,24,No,Sí,Cercano,Sí,Con otros familiares,Alto,No
+816,Femenino,13,2°,Alta,Medio,6.1,19,Sí,Sí,Cercano,Sí,Con ambos padres,Medio,No
+817,Femenino,13,1°,Baja,Bajo,5.3,30,No,Sí,Lejos,Sí,Sin referente adulto,Medio,Sí
+818,Femenino,17,2°,Alta,Alto,7.4,25,No,Sí,Lejos,No,Madre/padre solo,Bajo,Sí
+819,Femenino,13,4°,Media,Medio,8.2,13,Sí,Sí,Medio,Sí,Con ambos padres,Medio,No
+820,Femenino,18,4°,Baja,Alto,8.1,0,No,No,Lejos,Sí,Con ambos padres,Medio,No
+821,Masculino,16,2°,Media,Alto,4.8,5,No,Sí,Medio,Sí,Con otros familiares,Alto,Sí
+822,Masculino,13,3°,Media,Medio,10.0,26,No,No,Cercano,Sí,Sin referente adulto,Medio,Sí
+823,Masculino,19,4°,Alta,Alto,9.6,29,Sí,No,Lejos,No,Con ambos padres,Alto,No
+824,Masculino,17,1°,Baja,Bajo,6.3,13,Sí,Sí,Cercano,Sí,Sin referente adulto,Alto,No
+825,Masculino,17,2°,Baja,Medio,6.0,26,Sí,Sí,Cercano,Sí,Madre/padre solo,Alto,No
+826,Femenino,19,3°,Alta,Medio,8.5,24,No,No,Cercano,No,Con otros familiares,Alto,No
+827,Masculino,14,4°,Media,Alto,5.7,1,No,Sí,Medio,Sí,Madre/padre solo,Medio,Sí
+828,Masculino,17,3°,Baja,Medio,5.4,23,Sí,No,Medio,No,Madre/padre solo,Bajo,No
+829,Femenino,14,2°,Media,Medio,9.8,12,No,No,Medio,Sí,Con ambos padres,Medio,No
+830,Femenino,17,5°,Media,Bajo,6.5,22,No,Sí,Medio,No,Madre/padre solo,Alto,No
+831,Masculino,14,5°,Alta,Alto,9.9,7,No,Sí,Cercano,Sí,Con otros familiares,Bajo,No
+832,Masculino,15,5°,Baja,Bajo,7.3,25,No,No,Lejos,Sí,Con ambos padres,Bajo,No
+833,Masculino,15,1°,Alta,Bajo,7.7,16,Sí,Sí,Lejos,No,Con otros familiares,Alto,Sí
+834,Masculino,14,2°,Media,Bajo,7.1,26,No,No,Lejos,Sí,Madre/padre solo,Medio,Sí
+835,Femenino,14,2°,Media,Bajo,7.0,25,No,Sí,Lejos,No,Con otros familiares,Alto,No
+836,Masculino,19,5°,Media,Alto,6.8,30,Sí,No,Lejos,No,Con ambos padres,Medio,No
+837,Femenino,15,1°,Baja,Medio,4.1,12,Sí,Sí,Cercano,Sí,Con otros familiares,Medio,Sí
+838,Masculino,14,2°,Alta,Bajo,9.3,29,Sí,Sí,Lejos,Sí,Madre/padre solo,Medio,No
+839,Masculino,14,5°,Media,Medio,7.4,11,Sí,No,Cercano,No,Con otros familiares,Medio,No
+840,Masculino,19,4°,Baja,Bajo,9.3,5,Sí,Sí,Medio,No,Con ambos padres,Bajo,Sí
+841,Femenino,19,4°,Media,Alto,4.7,20,Sí,Sí,Medio,Sí,Madre/padre solo,Bajo,No
+842,Masculino,17,5°,Media,Alto,7.5,14,Sí,No,Cercano,Sí,Con otros familiares,Alto,Sí
+843,Femenino,17,4°,Media,Medio,9.9,13,Sí,Sí,Lejos,Sí,Con otros familiares,Medio,No
+844,Masculino,16,1°,Baja,Bajo,6.1,10,Sí,Sí,Lejos,Sí,Con otros familiares,Alto,No
+845,Masculino,15,1°,Alta,Alto,5.7,17,Sí,Sí,Cercano,Sí,Madre/padre solo,Bajo,No
+846,Masculino,13,2°,Alta,Medio,10.0,4,No,No,Cercano,No,Madre/padre solo,Medio,No
+847,Femenino,14,5°,Media,Bajo,6.4,14,No,No,Medio,Sí,Madre/padre solo,Bajo,No
+848,Masculino,18,3°,Alta,Alto,9.0,4,No,No,Cercano,Sí,Con otros familiares,Alto,No
+849,Femenino,19,2°,Alta,Medio,6.9,27,Sí,No,Medio,Sí,Con ambos padres,Medio,Sí
+850,Femenino,18,2°,Baja,Alto,5.6,25,No,Sí,Lejos,Sí,Con otros familiares,Alto,No
+851,Femenino,19,4°,Media,Alto,4.6,17,No,Sí,Lejos,Sí,Con ambos padres,Alto,Sí
+852,Masculino,19,3°,Baja,Medio,4.6,12,Sí,No,Lejos,Sí,Madre/padre solo,Bajo,Sí
+853,Masculino,13,1°,Media,Alto,9.6,20,No,No,Lejos,Sí,Madre/padre solo,Medio,No
+854,Masculino,16,4°,Baja,Bajo,8.2,15,No,Sí,Medio,Sí,Madre/padre solo,Medio,Sí
+855,Femenino,16,3°,Media,Alto,9.8,1,No,Sí,Lejos,No,Con ambos padres,Bajo,No
+856,Masculino,15,2°,Media,Alto,4.0,25,No,No,Medio,No,Sin referente adulto,Medio,No
+857,Femenino,13,5°,Media,Alto,4.3,30,Sí,Sí,Lejos,Sí,Con ambos padres,Alto,No
+858,Masculino,18,1°,Alta,Bajo,8.0,21,No,No,Medio,Sí,Madre/padre solo,Medio,No
+859,Femenino,18,4°,Media,Alto,7.0,3,Sí,Sí,Cercano,No,Sin referente adulto,Bajo,No
+860,Femenino,14,5°,Media,Alto,4.3,0,No,No,Cercano,No,Con ambos padres,Bajo,Sí
+861,Masculino,19,1°,Media,Medio,8.9,10,No,Sí,Medio,Sí,Sin referente adulto,Alto,Sí
+862,Masculino,19,4°,Alta,Alto,6.7,17,Sí,No,Cercano,No,Madre/padre solo,Medio,Sí
+863,Femenino,15,3°,Baja,Alto,8.4,27,Sí,No,Lejos,Sí,Sin referente adulto,Alto,No
+864,Masculino,15,5°,Baja,Medio,7.8,17,Sí,No,Lejos,Sí,Sin referente adulto,Alto,No
+865,Masculino,15,1°,Alta,Alto,7.1,13,No,Sí,Cercano,No,Madre/padre solo,Medio,No
+866,Masculino,14,2°,Baja,Medio,9.7,30,No,Sí,Lejos,No,Con otros familiares,Alto,Sí
+867,Masculino,19,5°,Baja,Medio,6.5,7,Sí,No,Lejos,No,Sin referente adulto,Bajo,Sí
+868,Masculino,15,1°,Baja,Alto,4.4,15,No,No,Cercano,No,Sin referente adulto,Alto,No
+869,Femenino,14,4°,Alta,Bajo,9.4,29,Sí,No,Cercano,Sí,Madre/padre solo,Medio,Sí
+870,Femenino,16,1°,Media,Alto,6.3,5,No,No,Cercano,Sí,Sin referente adulto,Alto,No
+871,Femenino,16,5°,Alta,Bajo,6.9,21,No,Sí,Lejos,No,Con ambos padres,Medio,Sí
+872,Masculino,15,5°,Media,Alto,8.9,8,No,Sí,Cercano,No,Sin referente adulto,Bajo,No
+873,Masculino,15,1°,Media,Bajo,6.8,3,Sí,Sí,Cercano,No,Con otros familiares,Bajo,No
+874,Masculino,15,2°,Media,Medio,5.9,11,No,No,Lejos,No,Madre/padre solo,Bajo,Sí
+875,Femenino,17,2°,Media,Bajo,4.1,1,No,Sí,Lejos,Sí,Con otros familiares,Medio,Sí
+876,Masculino,16,3°,Media,Medio,8.6,25,Sí,No,Medio,No,Con ambos padres,Bajo,No
+877,Masculino,18,3°,Media,Medio,6.2,27,Sí,Sí,Medio,No,Madre/padre solo,Bajo,No
+878,Femenino,19,3°,Baja,Alto,8.9,22,Sí,Sí,Lejos,Sí,Con otros familiares,Alto,Sí
+879,Femenino,14,3°,Alta,Bajo,9.8,21,Sí,No,Cercano,Sí,Con ambos padres,Bajo,No
+880,Masculino,16,3°,Alta,Bajo,9.3,23,No,No,Lejos,Sí,Con otros familiares,Alto,No
+881,Masculino,15,3°,Alta,Bajo,5.2,8,No,No,Cercano,No,Sin referente adulto,Alto,No
+882,Masculino,17,5°,Media,Medio,9.1,8,No,No,Medio,Sí,Madre/padre solo,Alto,No
+883,Masculino,13,3°,Baja,Medio,8.6,12,Sí,Sí,Cercano,Sí,Con ambos padres,Alto,Sí
+884,Masculino,13,3°,Alta,Alto,9.2,28,No,No,Cercano,Sí,Con otros familiares,Medio,Sí
+885,Femenino,19,1°,Baja,Medio,9.0,14,No,Sí,Medio,No,Madre/padre solo,Bajo,Sí
+886,Femenino,19,3°,Baja,Alto,5.5,18,Sí,Sí,Lejos,Sí,Sin referente adulto,Medio,Sí
+887,Femenino,13,1°,Alta,Alto,6.0,29,Sí,No,Cercano,No,Sin referente adulto,Medio,No
+888,Femenino,14,1°,Alta,Alto,7.6,4,No,No,Cercano,Sí,Sin referente adulto,Alto,No
+889,Masculino,16,3°,Media,Alto,5.1,15,No,No,Lejos,Sí,Con ambos padres,Medio,Sí
+890,Femenino,14,3°,Media,Alto,5.7,13,Sí,Sí,Cercano,No,Con ambos padres,Bajo,No
+891,Masculino,14,4°,Alta,Bajo,4.8,17,No,No,Medio,No,Con otros familiares,Medio,Sí
+892,Femenino,14,5°,Alta,Bajo,8.8,22,Sí,No,Medio,No,Con otros familiares,Medio,Sí
+893,Femenino,14,2°,Baja,Medio,5.4,8,No,No,Medio,No,Madre/padre solo,Bajo,No
+894,Femenino,13,3°,Media,Alto,9.3,29,No,No,Lejos,Sí,Con ambos padres,Alto,No
+895,Masculino,14,4°,Baja,Bajo,4.2,9,No,No,Cercano,No,Con otros familiares,Medio,Sí
+896,Masculino,19,4°,Media,Alto,5.3,1,Sí,Sí,Lejos,No,Sin referente adulto,Bajo,Sí
+897,Femenino,16,1°,Alta,Medio,6.2,11,Sí,Sí,Lejos,Sí,Sin referente adulto,Medio,No
+898,Masculino,19,3°,Baja,Bajo,5.1,26,Sí,No,Lejos,No,Sin referente adulto,Alto,Sí
+899,Femenino,13,2°,Alta,Alto,7.2,1,Sí,Sí,Lejos,Sí,Con otros familiares,Bajo,No
+900,Femenino,18,5°,Baja,Medio,4.8,13,Sí,No,Lejos,Sí,Madre/padre solo,Bajo,Sí
+901,Masculino,15,3°,Alta,Medio,9.6,16,Sí,Sí,Cercano,Sí,Madre/padre solo,Bajo,Sí
+902,Masculino,15,4°,Media,Bajo,6.1,3,No,No,Lejos,Sí,Con ambos padres,Alto,Sí
+903,Masculino,19,1°,Baja,Medio,6.9,19,No,Sí,Medio,No,Sin referente adulto,Alto,Sí
+904,Masculino,15,3°,Media,Alto,10.0,23,No,Sí,Lejos,Sí,Con otros familiares,Alto,Sí
+905,Masculino,14,5°,Alta,Bajo,8.6,30,Sí,Sí,Lejos,No,Madre/padre solo,Medio,Sí
+906,Femenino,16,3°,Alta,Bajo,5.7,10,No,No,Lejos,No,Sin referente adulto,Medio,No
+907,Masculino,16,3°,Media,Bajo,5.4,13,No,Sí,Cercano,Sí,Con ambos padres,Bajo,No
+908,Femenino,15,3°,Baja,Bajo,4.7,24,No,Sí,Lejos,No,Con ambos padres,Medio,Sí
+909,Femenino,17,4°,Alta,Medio,4.3,2,No,Sí,Medio,Sí,Madre/padre solo,Bajo,No
+910,Femenino,17,3°,Baja,Bajo,9.1,25,Sí,No,Medio,Sí,Madre/padre solo,Medio,Sí
+911,Masculino,19,5°,Alta,Bajo,9.0,23,Sí,Sí,Cercano,Sí,Sin referente adulto,Medio,No
+912,Masculino,17,1°,Baja,Bajo,6.3,5,Sí,Sí,Lejos,Sí,Madre/padre solo,Alto,Sí
+913,Femenino,15,3°,Media,Bajo,5.1,18,No,Sí,Medio,Sí,Sin referente adulto,Alto,Sí
+914,Masculino,13,4°,Alta,Bajo,5.2,2,No,No,Medio,No,Madre/padre solo,Alto,Sí
+915,Femenino,16,2°,Alta,Medio,9.7,28,Sí,Sí,Medio,Sí,Sin referente adulto,Alto,Sí
+916,Femenino,15,5°,Media,Bajo,9.4,4,Sí,No,Lejos,Sí,Con ambos padres,Alto,No
+917,Masculino,14,2°,Alta,Bajo,5.4,14,Sí,No,Lejos,No,Madre/padre solo,Alto,No
+918,Masculino,16,5°,Media,Alto,8.1,1,Sí,Sí,Lejos,No,Madre/padre solo,Medio,No
+919,Masculino,19,5°,Media,Bajo,5.9,20,Sí,No,Cercano,Sí,Madre/padre solo,Medio,Sí
+920,Femenino,18,3°,Baja,Bajo,5.0,26,Sí,No,Medio,No,Con ambos padres,Alto,Sí
+921,Femenino,13,2°,Media,Alto,8.8,21,Sí,Sí,Medio,Sí,Sin referente adulto,Bajo,Sí
+922,Masculino,15,5°,Alta,Bajo,8.3,23,No,Sí,Medio,Sí,Con otros familiares,Medio,Sí
+923,Masculino,17,4°,Media,Medio,5.2,4,No,Sí,Cercano,No,Madre/padre solo,Bajo,Sí
+924,Masculino,15,2°,Baja,Medio,4.5,28,Sí,Sí,Medio,No,Con otros familiares,Bajo,Sí
+925,Femenino,13,4°,Baja,Bajo,4.7,7,Sí,Sí,Medio,Sí,Con ambos padres,Alto,Sí
+926,Femenino,19,5°,Media,Medio,9.1,4,Sí,Sí,Lejos,Sí,Sin referente adulto,Bajo,Sí
+927,Femenino,15,3°,Alta,Bajo,6.5,29,No,Sí,Lejos,No,Sin referente adulto,Medio,No
+928,Femenino,18,5°,Alta,Alto,7.8,14,No,Sí,Cercano,No,Con otros familiares,Medio,No
+929,Femenino,14,3°,Baja,Bajo,7.7,1,Sí,Sí,Medio,No,Con otros familiares,Bajo,Sí
+930,Femenino,14,1°,Media,Medio,4.5,17,Sí,Sí,Medio,No,Con ambos padres,Bajo,Sí
+931,Masculino,15,2°,Baja,Bajo,7.7,10,No,No,Medio,No,Con otros familiares,Alto,Sí
+932,Femenino,19,5°,Media,Medio,9.6,17,No,Sí,Lejos,Sí,Con ambos padres,Bajo,Sí
+933,Masculino,13,3°,Media,Bajo,7.9,27,No,No,Lejos,No,Con ambos padres,Bajo,No
+934,Femenino,18,1°,Media,Alto,8.1,26,Sí,No,Medio,No,Sin referente adulto,Bajo,No
+935,Femenino,19,5°,Media,Alto,5.1,7,Sí,No,Cercano,No,Madre/padre solo,Bajo,No
+936,Femenino,15,4°,Baja,Medio,7.7,9,Sí,No,Cercano,Sí,Madre/padre solo,Alto,No
+937,Femenino,16,3°,Alta,Medio,9.6,27,Sí,Sí,Medio,No,Con ambos padres,Medio,No
+938,Masculino,13,4°,Baja,Bajo,6.0,0,No,Sí,Medio,No,Sin referente adulto,Medio,Sí
+939,Masculino,19,3°,Alta,Bajo,8.8,0,No,Sí,Lejos,No,Con ambos padres,Alto,Sí
+940,Femenino,15,4°,Baja,Bajo,6.2,13,Sí,No,Lejos,No,Con ambos padres,Medio,No
+941,Femenino,13,2°,Alta,Alto,4.2,24,Sí,Sí,Medio,No,Con ambos padres,Alto,No
+942,Masculino,16,4°,Alta,Alto,5.3,27,Sí,No,Medio,No,Sin referente adulto,Bajo,No
+943,Masculino,16,3°,Baja,Alto,9.1,20,No,No,Medio,Sí,Madre/padre solo,Alto,Sí
+944,Femenino,17,3°,Baja,Bajo,7.3,28,No,Sí,Medio,Sí,Con ambos padres,Alto,No
+945,Masculino,19,1°,Baja,Alto,4.5,25,Sí,No,Cercano,Sí,Madre/padre solo,Medio,No
+946,Masculino,16,4°,Alta,Alto,4.4,3,No,Sí,Lejos,No,Sin referente adulto,Medio,Sí
+947,Femenino,14,1°,Alta,Bajo,5.3,17,Sí,Sí,Medio,Sí,Con otros familiares,Medio,No
+948,Femenino,19,3°,Alta,Bajo,6.3,26,Sí,Sí,Medio,No,Sin referente adulto,Alto,Sí
+949,Femenino,13,3°,Media,Bajo,6.0,14,No,Sí,Lejos,Sí,Con otros familiares,Bajo,No
+950,Femenino,15,3°,Alta,Alto,7.5,1,No,Sí,Medio,Sí,Con otros familiares,Medio,Sí
+951,Masculino,17,3°,Alta,Medio,6.2,0,No,No,Medio,Sí,Sin referente adulto,Bajo,Sí
+952,Masculino,18,1°,Media,Alto,7.4,11,No,Sí,Lejos,No,Con ambos padres,Alto,No
+953,Femenino,17,4°,Alta,Bajo,8.7,22,No,No,Lejos,No,Madre/padre solo,Medio,No
+954,Masculino,14,5°,Media,Alto,9.3,6,No,No,Medio,No,Madre/padre solo,Medio,Sí
+955,Masculino,17,4°,Baja,Bajo,5.3,6,No,No,Lejos,Sí,Con otros familiares,Bajo,Sí
+956,Femenino,19,4°,Alta,Bajo,4.1,4,Sí,No,Medio,No,Sin referente adulto,Alto,Sí
+957,Masculino,13,3°,Media,Alto,6.7,7,Sí,No,Lejos,No,Sin referente adulto,Alto,Sí
+958,Masculino,15,3°,Media,Alto,8.0,3,No,Sí,Lejos,Sí,Con otros familiares,Alto,No
+959,Masculino,18,3°,Baja,Alto,7.9,4,Sí,No,Lejos,No,Madre/padre solo,Alto,No
+960,Femenino,17,4°,Alta,Bajo,9.9,10,No,No,Lejos,Sí,Madre/padre solo,Alto,No
+961,Masculino,16,5°,Baja,Alto,9.0,2,Sí,No,Cercano,Sí,Con ambos padres,Medio,Sí
+962,Masculino,13,2°,Media,Bajo,4.4,26,Sí,No,Medio,No,Con ambos padres,Medio,No
+963,Masculino,17,4°,Media,Alto,5.7,19,No,No,Medio,No,Sin referente adulto,Medio,No
+964,Femenino,19,4°,Baja,Medio,8.2,15,Sí,Sí,Cercano,Sí,Sin referente adulto,Bajo,Sí
+965,Masculino,17,5°,Alta,Alto,4.2,13,Sí,Sí,Lejos,No,Sin referente adulto,Alto,Sí
+966,Masculino,19,5°,Alta,Alto,5.2,20,No,Sí,Medio,No,Madre/padre solo,Alto,Sí
+967,Femenino,16,3°,Alta,Alto,4.0,0,No,No,Cercano,No,Sin referente adulto,Medio,No
+968,Masculino,16,1°,Baja,Bajo,5.5,5,No,No,Medio,Sí,Con ambos padres,Bajo,Sí
+969,Femenino,17,5°,Media,Medio,6.6,13,No,No,Cercano,Sí,Sin referente adulto,Medio,No
+970,Masculino,14,3°,Media,Medio,6.7,16,No,Sí,Cercano,No,Madre/padre solo,Alto,No
+971,Masculino,16,3°,Media,Medio,7.6,1,Sí,No,Cercano,Sí,Con ambos padres,Bajo,Sí
+972,Masculino,13,3°,Alta,Alto,5.7,29,Sí,No,Cercano,Sí,Con otros familiares,Medio,No
+973,Masculino,14,5°,Baja,Alto,7.0,8,Sí,Sí,Lejos,No,Madre/padre solo,Medio,Sí
+974,Femenino,19,2°,Alta,Bajo,9.1,24,Sí,Sí,Lejos,Sí,Con otros familiares,Alto,Sí
+975,Femenino,17,5°,Media,Bajo,5.5,12,No,No,Lejos,No,Sin referente adulto,Bajo,No
+976,Masculino,19,2°,Media,Bajo,4.5,13,Sí,Sí,Medio,No,Con ambos padres,Bajo,Sí
+977,Femenino,15,5°,Baja,Alto,5.2,15,Sí,Sí,Medio,Sí,Con otros familiares,Alto,Sí
+978,Femenino,15,1°,Alta,Bajo,6.2,29,Sí,No,Cercano,No,Madre/padre solo,Medio,No
+979,Femenino,18,4°,Alta,Alto,7.5,26,No,No,Cercano,Sí,Con otros familiares,Alto,Sí
+980,Masculino,18,5°,Media,Medio,6.1,25,No,Sí,Lejos,No,Con otros familiares,Alto,No
+981,Masculino,17,1°,Media,Alto,7.9,27,Sí,No,Cercano,No,Con otros familiares,Alto,No
+982,Femenino,15,5°,Baja,Bajo,5.4,19,No,Sí,Medio,No,Con ambos padres,Medio,Sí
+983,Masculino,16,3°,Baja,Medio,7.9,3,Sí,Sí,Medio,No,Sin referente adulto,Medio,Sí
+984,Femenino,16,4°,Baja,Bajo,8.4,21,No,No,Medio,No,Con ambos padres,Bajo,No
+985,Femenino,16,1°,Baja,Alto,6.1,19,Sí,Sí,Cercano,Sí,Sin referente adulto,Alto,No
+986,Masculino,14,4°,Media,Bajo,8.4,5,Sí,Sí,Cercano,Sí,Sin referente adulto,Medio,Sí
+987,Masculino,15,3°,Alta,Medio,8.3,30,No,Sí,Medio,Sí,Con otros familiares,Medio,No
+988,Femenino,13,2°,Baja,Alto,8.0,14,No,Sí,Lejos,Sí,Madre/padre solo,Bajo,Sí
+989,Masculino,15,1°,Baja,Medio,5.9,29,Sí,Sí,Lejos,No,Con ambos padres,Alto,Sí
+990,Masculino,15,2°,Media,Alto,4.5,28,Sí,Sí,Cercano,Sí,Con ambos padres,Alto,No
+991,Femenino,14,2°,Media,Bajo,8.4,23,Sí,No,Cercano,No,Con otros familiares,Medio,Sí
+992,Femenino,15,1°,Baja,Alto,4.9,4,No,No,Medio,No,Con ambos padres,Medio,No
+993,Femenino,14,1°,Baja,Bajo,6.8,15,Sí,Sí,Cercano,Sí,Sin referente adulto,Medio,Sí
+994,Masculino,13,3°,Alta,Alto,9.1,26,Sí,No,Cercano,No,Con otros familiares,Bajo,Sí
+995,Masculino,19,4°,Alta,Alto,9.7,21,Sí,No,Medio,No,Con otros familiares,Bajo,Sí
+996,Masculino,13,3°,Baja,Alto,4.2,30,No,Sí,Medio,No,Sin referente adulto,Medio,No
+997,Femenino,14,1°,Alta,Alto,6.3,28,Sí,No,Medio,No,Con ambos padres,Medio,No
+998,Femenino,17,5°,Baja,Bajo,8.9,5,Sí,No,Cercano,No,Madre/padre solo,Bajo,Sí
+999,Femenino,16,3°,Baja,Bajo,8.6,16,No,Sí,Medio,No,Sin referente adulto,Medio,Sí
+1000,Masculino,13,3°,Media,Alto,9.3,30,No,No,Cercano,Sí,Sin referente adulto,Bajo,No

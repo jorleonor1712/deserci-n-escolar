@@ -1,0 +1,81 @@
+#  Informe Técnico – Análisis Predictivo de Deserción Escolar
+
+## Introducción
+El presente informe forma parte del proyecto de la materia **Procesamiento de Datos** de la **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial**.  
+El objetivo es **analizar los factores que inciden en la deserción escolar** y desarrollar un modelo predictivo capaz de identificar a los estudiantes con mayor riesgo de abandono.
+
+
+
+## Objetivo General
+Desarrollar un análisis de datos que permita **detectar patrones asociados a la deserción escolar**, utilizando información académica, socioeconómica y familiar, para mejorar la toma de decisiones en el ámbito educativo.
+
+### Objetivos Específicos
+- Realizar un análisis exploratorio del dataset.  
+- Identificar las variables que influyen en la deserción.  
+- Construir un modelo predictivo simple.  
+- Visualizar los resultados mediante un dashboard interactivo.
+
+
+
+## Dataset
+El dataset original incluye información de estudiantes, como:
+- Edad  
+- Sexo  
+- Asistencia (%)  
+- Promedio académico  
+- Situación familiar  
+- Nivel socioeconómico  
+- Distancia a la escuela  
+- Actividades extracurriculares  
+- Conectividad  
+
+> Se trabajó con **una versión anonimizada** del dataset para proteger los datos personales.
+
+
+##  Herramientas Utilizadas
+- **Python (Google Colab)**: pandas, numpy, matplotlib, scikit-learn  
+- **Looker Studio**: visualización de indicadores y métricas  
+- **GitHub**: documentación, control de versiones y publicación del proyecto  
+
+---
+
+## Metodología
+1. **Limpieza de datos**  
+   - Eliminación de valores nulos.  
+   - Estandarización de variables categóricas.  
+   - Conversión de porcentajes a valores numéricos.
+
+2. **Análisis Exploratorio (EDA)**  
+   - Cálculo de correlaciones entre variables.  
+   - Identificación de patrones de asistencia, rendimiento y contexto social.
+
+3. **Modelado Predictivo**  
+   - Regresión logística para predecir probabilidad de deserción.  
+   - Métricas de evaluación: Accuracy, Precision, Recall, F1-score.
+
+4. **Visualización de Resultados**  
+   - Creación de un dashboard interactivo en Looker Studio.  
+   - Indicadores principales: asistencia promedio, riesgo de deserción, rendimiento medio.
+
+---
+
+##  Resultados
+- **Tasa estimada de riesgo:** 21% de estudiantes presentan indicadores de deserción.  
+- **Factores clave:** baja asistencia y bajo promedio académico.  
+- **Hallazgo adicional:** la conectividad y la situación familiar muestran correlación con el rendimiento escolar.
+
+---
+
+## Conclusiones
+El modelo permitió **identificar grupos vulnerables** con base en características socioeconómicas y académicas.  
+Se recomienda utilizar este enfoque predictivo para **implementar políticas de retención educativa** y monitorear los indicadores de riesgo en tiempo real.
+
+---
+
+##  Referencias
+- Dataset elaborado en contexto educativo por la Tecnicatura Superior en Ciencia de Datos e IA.  
+- Librerías: `pandas`, `numpy`, `matplotlib`, `scikit-learn`.  
+- Plataforma de visualización: Google Looker Studio.  
+- Documentación alojada en GitHub.
+
+
